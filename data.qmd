@@ -1,0 +1,35 @@
+---
+title: "Data"
+subtitle: "Durable outputs for analysis and applications."
+---
+
+## Downloads
+
+| Dataset | CSV | JSON | What it contains |
+| --- | --- | --- | --- |
+| Features | [CSV](data/public/csv/features.csv) | [JSON](data/public/json/features.json) | Common feature index and coordinates |
+| Access points | [CSV](data/public/csv/access-points.csv) | [JSON](data/public/json/access-points.json) | Mile ranges, coordinates, and amenities |
+| Locks | [CSV](data/public/csv/locks.csv) | [JSON](data/public/json/locks.json) | Numbers, names, mileposts, and coordinates |
+| Relationships | [CSV](data/public/csv/relationships.csv) | [JSON](data/public/json/relationships.json) | Nearby features and reference matches |
+| Sources | [CSV](data/public/csv/sources.csv) | [JSON](data/public/json/sources.json) | URLs, attribution, and artifact provenance |
+| Towpath | — | [GeoJSON](data/public/towpath.geojson) | Canonical route geometry |
+
+The common feature schema is deliberately small: `id`, `name`, `feature_type`,
+`mile`, optional `mile_end`, WGS84 coordinates, and `source_ids`. Dedicated files
+retain details that do not belong in every feature record.
+
+`source_ids` joins to the source registry. In CSV, multiple IDs are separated with
+`|`; JSON retains them as arrays. Amenity fields are blank or `null` when an access
+point has no matched NPS recreation-guide record—unknown does not mean false.
+
+## Regenerate
+
+```console
+uv sync
+uv run python -m canawler.build
+uv run pytest
+```
+
+Routine generation uses only committed files under `data/reference/` and does not
+contact external services. See the [repository README](https://github.com/derailable/canawler#readme)
+for reference-refresh and site-rendering commands.

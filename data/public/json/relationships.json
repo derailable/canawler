@@ -1,0 +1,2579 @@
+{
+  "relationships": [
+    {
+      "from_id": "access-antietam-69-5",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-antietam-creek-69-6",
+      "to_mile": 69.6,
+      "to_name": "Antietam Creek"
+    },
+    {
+      "from_id": "access-berm-road-125-6",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-white-rock-126-4",
+      "to_mile": 126.4,
+      "to_name": "White Rock"
+    },
+    {
+      "from_id": "access-berm-road-125-6",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-little-pool-126-6",
+      "to_mile": 126.6,
+      "to_name": "Little Pool"
+    },
+    {
+      "from_id": "access-big-slackwater-boat-ramp-85-4",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-big-slackwater-85-5",
+      "to_mile": 85.5,
+      "to_name": "Big Slackwater"
+    },
+    {
+      "from_id": "access-big-slackwater-boat-ramp-85-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-dam-no-4-84-4",
+      "to_mile": 84.4,
+      "to_name": "Dam No. 4"
+    },
+    {
+      "from_id": "access-big-slackwater-boat-ramp-85-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dam-4-84-4",
+      "to_mile": 84.4,
+      "to_name": "Dam 4"
+    },
+    {
+      "from_id": "access-bonds-landing-150-1",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-60",
+      "to_mile": 149.6,
+      "to_name": "Lock 60"
+    },
+    {
+      "from_id": "access-bonds-landing-150-1",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-stickpile-hill-149-4",
+      "to_mile": 149.4,
+      "to_name": "Stickpile Hill"
+    },
+    {
+      "from_id": "access-brehm-road-178-9",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-mexico-farms-178-3",
+      "to_mile": 178.3,
+      "to_name": "Mexico Farms"
+    },
+    {
+      "from_id": "access-brookmont-footbridge-5-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-5",
+      "to_mile": 5.0,
+      "to_name": "Lock 5"
+    },
+    {
+      "from_id": "access-brookmont-footbridge-5-0",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-6-5-4",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-brookmont-footbridge-5-0",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-valley-road-brookmont-5-4",
+      "to_mile": 5.4,
+      "to_name": "Valley Road (Brookmont)"
+    },
+    {
+      "from_id": "access-brookmont-footbridge-5-0",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-brookmont-footbridge-5-0",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-chain-bridge-4-0",
+      "to_mile": 4.0,
+      "to_name": "Chain Bridge"
+    },
+    {
+      "from_id": "access-brunswick-55-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-30",
+      "to_mile": 55.0,
+      "to_name": "Lock 30"
+    },
+    {
+      "from_id": "access-brunswick-55-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-brunswick-55-0",
+      "to_mile": 55.0,
+      "to_name": "Brunswick"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-8-8-3",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-riverside-drive-8-3",
+      "to_mile": 8.3,
+      "to_name": "Riverside Drive"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-8",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-7-7-0",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-7",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-cabin-john-aqueduct-7-7",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-9",
+      "to_mile": 8.7,
+      "to_name": "Lock 9"
+    },
+    {
+      "from_id": "access-canal-parkway-182-6",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-elizabeth-street-183-1",
+      "to_mile": 183.1,
+      "to_name": "Elizabeth Street"
+    },
+    {
+      "from_id": "access-canal-parkway-182-6",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-candoc-recreation-area-181-8",
+      "to_mile": 181.8,
+      "to_name": "Candoc Recreation Area"
+    },
+    {
+      "from_id": "access-candoc-recreation-area-181-8",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-canal-parkway-182-6",
+      "to_mile": 182.6,
+      "to_name": "Canal Parkway"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-carderock-10-5",
+      "to_mile": 10.5,
+      "to_name": "Carderock"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-marsden-tract-11-4",
+      "to_mile": 11.4,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-marsden-tract-11-5",
+      "to_mile": 11.5,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-14",
+      "to_mile": 9.5,
+      "to_name": "Lock 14"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-13",
+      "to_mile": 9.4,
+      "to_name": "Lock 13"
+    },
+    {
+      "from_id": "access-chain-bridge-4-0",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-fletchers-cove-3-1",
+      "to_mile": 3.1,
+      "to_name": "Fletchers Cove"
+    },
+    {
+      "from_id": "access-chain-bridge-4-0",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-fletchers-cove-3-1",
+      "to_mile": 3.1,
+      "to_name": "Fletchers Cove"
+    },
+    {
+      "from_id": "access-chain-bridge-4-0",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-brookmont-footbridge-5-0",
+      "to_mile": 5.0,
+      "to_name": "Brookmont footbridge"
+    },
+    {
+      "from_id": "access-chain-bridge-4-0",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-5",
+      "to_mile": 5.0,
+      "to_name": "Lock 5"
+    },
+    {
+      "from_id": "access-cohill-station-130-7",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-cohill-station-130-7",
+      "to_mile": 130.7,
+      "to_name": "Cohill Station"
+    },
+    {
+      "from_id": "access-cohill-station-130-7",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-53",
+      "to_mile": 130.1,
+      "to_name": "Lock 53"
+    },
+    {
+      "from_id": "access-cohill-station-130-7",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-leopards-mill-129-9",
+      "to_mile": 129.9,
+      "to_name": "Leopards Mill"
+    },
+    {
+      "from_id": "access-cumberland-visitor-center-184-5",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-canal-terminus-cumberland-184-5",
+      "to_mile": 184.5,
+      "to_name": "Canal Terminus (Cumberland)"
+    },
+    {
+      "from_id": "access-dam-no-4-84-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dam-4-84-4",
+      "to_mile": 84.4,
+      "to_name": "Dam 4"
+    },
+    {
+      "from_id": "access-dam-no-4-84-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-big-slackwater-boat-ramp-85-4",
+      "to_mile": 85.4,
+      "to_name": "Big Slackwater Boat Ramp"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dam-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam 5"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-45",
+      "to_mile": 107.0,
+      "to_name": "Lock 45"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-46",
+      "to_mile": 107.2,
+      "to_name": "Lock 46"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-dam-no-5-road-106-2",
+      "to_mile": 106.2,
+      "to_name": "Dam No. 5 Road"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-46-107-4",
+      "to_mile": 107.4,
+      "to_name": "Lock 46"
+    },
+    {
+      "from_id": "access-dam-no-5-road-106-2",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-dam-no-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam No. 5"
+    },
+    {
+      "from_id": "access-dam-no-5-road-106-2",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dam-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam 5"
+    },
+    {
+      "from_id": "access-dam-no-5-road-106-2",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-45",
+      "to_mile": 107.0,
+      "to_name": "Lock 45"
+    },
+    {
+      "from_id": "access-dam-no-5-road-106-2",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-46",
+      "to_mile": 107.2,
+      "to_name": "Lock 46"
+    },
+    {
+      "from_id": "access-dargan-bend-64-9",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dargan-bend-64-9",
+      "to_mile": 64.9,
+      "to_name": "Dargan Bend"
+    },
+    {
+      "from_id": "access-dickerson-conservation-park-39-6",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-26",
+      "to_mile": 39.4,
+      "to_name": "Lock 26"
+    },
+    {
+      "from_id": "access-edwards-ferry-30-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-25",
+      "to_mile": 30.8,
+      "to_name": "Lock 25"
+    },
+    {
+      "from_id": "access-edwards-ferry-30-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-edwards-ferry-30-8",
+      "to_mile": 30.8,
+      "to_name": "Edwards Ferry"
+    },
+    {
+      "from_id": "access-edwards-ferry-30-8",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-chisel-branch-30-5",
+      "to_mile": 30.5,
+      "to_name": "Chisel Branch"
+    },
+    {
+      "from_id": "access-elizabeth-street-183-1",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-canal-parkway-182-6",
+      "to_mile": 182.6,
+      "to_name": "Canal Parkway"
+    },
+    {
+      "from_id": "access-ernstville-road-114-5",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-big-pool-113-8",
+      "to_mile": 113.8,
+      "to_name": "Big Pool"
+    },
+    {
+      "from_id": "access-fletchers-cove-3-1",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-fletchers-cove-3-1",
+      "to_mile": 3.1,
+      "to_name": "Fletchers Cove"
+    },
+    {
+      "from_id": "access-fletchers-cove-3-1",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-chain-bridge-4-0",
+      "to_mile": 4.0,
+      "to_name": "Chain Bridge"
+    },
+    {
+      "from_id": "access-fort-frederick-112-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-fort-frederick-state-park-112-4",
+      "to_mile": 112.4,
+      "to_name": "Fort Frederick State Park"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-48",
+      "to_mile": 108.8,
+      "to_name": "Lock 48"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-47",
+      "to_mile": 108.7,
+      "to_name": "Lock 47"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-49",
+      "to_mile": 108.9,
+      "to_name": "Lock 49"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-50",
+      "to_mile": 109.0,
+      "to_name": "Lock 50"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-four-locks-109-0",
+      "to_mile": 109.0,
+      "to_name": "Four Locks"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-1",
+      "to_mile": 0.3,
+      "to_name": "Lock 1"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-2",
+      "to_mile": 0.3,
+      "to_name": "Lock 2"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-3",
+      "to_mile": 0.4,
+      "to_name": "Lock 3"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-4",
+      "to_mile": 0.4,
+      "to_name": "Lock 4"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-thompson-boat-center-0-1",
+      "to_mile": 0.1,
+      "to_name": "Thompson Boat Center"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-19",
+      "to_mile": 14.3,
+      "to_name": "Lock 19"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-great-falls-14-3",
+      "to_mile": 14.3,
+      "to_name": "Great Falls"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-18",
+      "to_mile": 14.2,
+      "to_name": "Lock 18"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-20",
+      "to_mile": 14.4,
+      "to_name": "Lock 20"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-17",
+      "to_mile": 14.1,
+      "to_name": "Lock 17"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-16",
+      "to_mile": 13.7,
+      "to_name": "Lock 16"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-15",
+      "to_mile": 13.6,
+      "to_name": "Lock 15"
+    },
+    {
+      "from_id": "access-hancock-124-1",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-little-tonoloway-hancock-124-5",
+      "to_mile": 124.5,
+      "to_name": "Little Tonoloway (Hancock)"
+    },
+    {
+      "from_id": "access-hancock-visitor-center-122-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-51",
+      "to_mile": 122.7,
+      "to_name": "Lock 51"
+    },
+    {
+      "from_id": "access-hancock-visitor-center-122-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-52",
+      "to_mile": 122.9,
+      "to_name": "Lock 52"
+    },
+    {
+      "from_id": "access-kasecamp-road-147-1",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-59",
+      "to_mile": 146.5,
+      "to_name": "Lock 59"
+    },
+    {
+      "from_id": "access-lander-50-9",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-29",
+      "to_mile": 50.8,
+      "to_name": "Lock 29"
+    },
+    {
+      "from_id": "access-lander-50-9",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-bald-eagle-island-50-3",
+      "to_mile": 50.3,
+      "to_name": "Bald Eagle Island"
+    },
+    {
+      "from_id": "access-licking-creek-116-3",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-licking-creek-116-0",
+      "to_mile": 116.0,
+      "to_name": "Licking Creek"
+    },
+    {
+      "from_id": "access-little-orleans-140-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-fifteenmile-creek-140-9",
+      "to_mile": 140.9,
+      "to_name": "Fifteenmile Creek"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-10",
+      "to_mile": 8.8,
+      "to_name": "Lock 10"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-9",
+      "to_mile": 8.7,
+      "to_name": "Lock 9"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-11",
+      "to_mile": 9.0,
+      "to_name": "Lock 11"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-8-8-3",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-riverside-drive-8-3",
+      "to_mile": 8.3,
+      "to_name": "Riverside Drive"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-12",
+      "to_mile": 9.3,
+      "to_name": "Lock 12"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-8",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-13",
+      "to_mile": 9.4,
+      "to_name": "Lock 13"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-14",
+      "to_mile": 9.5,
+      "to_name": "Lock 14"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-34",
+      "to_mile": 61.5,
+      "to_name": "Lock 34"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-maryland-heights-61-3",
+      "to_mile": 61.3,
+      "to_name": "Maryland Heights"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-huckleberry-hill-62-0",
+      "to_mile": 62.0,
+      "to_name": "Huckleberry Hill"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-35",
+      "to_mile": 62.3,
+      "to_name": "Lock 35"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-33",
+      "to_mile": 60.7,
+      "to_name": "Lock 33"
+    },
+    {
+      "from_id": "access-lock-34-61-6",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-36",
+      "to_mile": 62.5,
+      "to_name": "Lock 36"
+    },
+    {
+      "from_id": "access-lock-38-shepherdstown-72-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-ferry-hill-72-8",
+      "to_mile": 72.8,
+      "to_name": "Ferry Hill"
+    },
+    {
+      "from_id": "access-lock-38-shepherdstown-72-8",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-38",
+      "to_mile": 72.7,
+      "to_name": "Lock 38"
+    },
+    {
+      "from_id": "access-lock-38-shepherdstown-72-8",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-railroad-bridge-shepherdstown-72-4",
+      "to_mile": 72.4,
+      "to_name": "Railroad bridge (Shepherdstown)"
+    },
+    {
+      "from_id": "access-lock-44-99-3",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-44",
+      "to_mile": 99.1,
+      "to_name": "Lock 44"
+    },
+    {
+      "from_id": "access-lock-44-99-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-williamsport-visitor-center-99-8",
+      "to_mile": 99.8,
+      "to_name": "Williamsport Visitor Center"
+    },
+    {
+      "from_id": "access-lock-44-99-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-cushwa-basin-williamsport-99-8",
+      "to_mile": 99.8,
+      "to_name": "Cushwa Basin (Williamsport)"
+    },
+    {
+      "from_id": "access-lock-46-107-4",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-46",
+      "to_mile": 107.2,
+      "to_name": "Lock 46"
+    },
+    {
+      "from_id": "access-lock-46-107-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-45",
+      "to_mile": 107.0,
+      "to_name": "Lock 45"
+    },
+    {
+      "from_id": "access-lock-46-107-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-dam-no-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam No. 5"
+    },
+    {
+      "from_id": "access-lock-46-107-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-dam-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam 5"
+    },
+    {
+      "from_id": "access-lock-56-pearre-136-2",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-56",
+      "to_mile": 136.2,
+      "to_name": "Lock 56"
+    },
+    {
+      "from_id": "access-lock-56-pearre-136-2",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-wmrt-pearre-parking-lot-135-9",
+      "to_mile": 135.9,
+      "to_name": "WMRT Pearre parking lot"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-valley-road-brookmont-5-4",
+      "to_mile": 5.4,
+      "to_name": "Valley Road (Brookmont)"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-brookmont-footbridge-5-0",
+      "to_mile": 5.0,
+      "to_name": "Brookmont footbridge"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-5",
+      "to_mile": 5.0,
+      "to_name": "Lock 5"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-sycamore-island-6-4",
+      "to_mile": 6.4,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-walhonding-road-footbridge-6-4",
+      "to_mile": 6.4,
+      "to_name": "Walhonding Road footbridge"
+    },
+    {
+      "from_id": "access-lock-67-161-9",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-67",
+      "to_mile": 161.7,
+      "to_name": "Lock 67"
+    },
+    {
+      "from_id": "access-lock-67-161-9",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-town-creek-162-1",
+      "to_mile": 162.1,
+      "to_name": "Town Creek"
+    },
+    {
+      "from_id": "access-lock-67-161-9",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-town-creek-aqueduct-162-3",
+      "to_mile": 162.3,
+      "to_name": "Town Creek Aqueduct"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-7",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-sycamore-island-6-5",
+      "to_mile": 6.5,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-sycamore-island-6-4",
+      "to_mile": 6.4,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-walhonding-road-footbridge-6-4",
+      "to_mile": 6.4,
+      "to_name": "Walhonding Road footbridge"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-cabin-john-aqueduct-7-7",
+      "to_mile": 7.7,
+      "to_name": "Cabin John Aqueduct"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-riverside-drive-8-3",
+      "to_mile": 8.3,
+      "to_name": "Riverside Drive"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-8",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-9",
+      "to_mile": 8.7,
+      "to_name": "Lock 9"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-10-8-8",
+      "to_mile": 8.8,
+      "to_name": "Lock 10"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-10",
+      "to_mile": 8.8,
+      "to_name": "Lock 10"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-cabin-john-aqueduct-7-7",
+      "to_mile": 7.7,
+      "to_name": "Cabin John Aqueduct"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-11",
+      "to_mile": 9.0,
+      "to_name": "Lock 11"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-12",
+      "to_mile": 9.3,
+      "to_name": "Lock 12"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-marsden-tract-11-5",
+      "to_mile": 11.5,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-old-angler-s-inn-12-2",
+      "to_mile": 12.2,
+      "to_name": "Old Angler's Inn"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-anglers-access-12-2",
+      "to_mile": 12.2,
+      "to_name": "Anglers Access"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-carderock-10-5",
+      "to_mile": 10.5,
+      "to_name": "Carderock"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-carderock-10-4",
+      "to_mile": 10.4,
+      "to_name": "Carderock"
+    },
+    {
+      "from_id": "access-maryland-heights-61-3",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-34",
+      "to_mile": 61.5,
+      "to_name": "Lock 34"
+    },
+    {
+      "from_id": "access-maryland-heights-61-3",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-34-61-6",
+      "to_mile": 61.6,
+      "to_name": "Lock 34"
+    },
+    {
+      "from_id": "access-maryland-heights-61-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-33",
+      "to_mile": 60.7,
+      "to_name": "Lock 33"
+    },
+    {
+      "from_id": "access-maryland-heights-61-3",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-huckleberry-hill-62-0",
+      "to_mile": 62.0,
+      "to_name": "Huckleberry Hill"
+    },
+    {
+      "from_id": "access-maryland-heights-61-3",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-35",
+      "to_mile": 62.3,
+      "to_name": "Lock 35"
+    },
+    {
+      "from_id": "access-mccoys-ferry-110-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-mccoys-ferry-110-4",
+      "to_mile": 110.4,
+      "to_name": "McCoys Ferry"
+    },
+    {
+      "from_id": "access-mccoys-ferry-110-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-north-mountain-110-0",
+      "to_mile": 110.0,
+      "to_name": "North Mountain"
+    },
+    {
+      "from_id": "access-mcmahons-mill-88-1",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-mcmahons-mill-88-1",
+      "to_mile": 88.1,
+      "to_name": "McMahons Mill"
+    },
+    {
+      "from_id": "access-mcmahons-mill-88-1",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-41",
+      "to_mile": 88.9,
+      "to_name": "Lock 41"
+    },
+    {
+      "from_id": "access-mcmahons-mill-88-1",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-42",
+      "to_mile": 89.0,
+      "to_name": "Lock 42"
+    },
+    {
+      "from_id": "access-mcmahons-mill-88-1",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-spring-dell-road-89-1",
+      "to_mile": 89.1,
+      "to_name": "Spring Dell Road"
+    },
+    {
+      "from_id": "access-mexico-farms-178-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-brehm-road-178-9",
+      "to_mile": 178.9,
+      "to_name": "Brehm Road"
+    },
+    {
+      "from_id": "access-monocacy-aqueduct-42-1",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-monocacy-aqueduct-42-2",
+      "to_mile": 42.2,
+      "to_name": "Monocacy Aqueduct"
+    },
+    {
+      "from_id": "access-monocacy-aqueduct-42-1",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-indian-flats-42-5",
+      "to_mile": 42.5,
+      "to_name": "Indian Flats"
+    },
+    {
+      "from_id": "access-monocacy-aqueduct-42-1",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-27",
+      "to_mile": 41.5,
+      "to_name": "Lock 27"
+    },
+    {
+      "from_id": "access-mountain-lock-67-0",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-37",
+      "to_mile": 66.9,
+      "to_name": "Lock 37"
+    },
+    {
+      "from_id": "access-nolands-ferry-44-6",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-nolands-ferry-44-6",
+      "to_mile": 44.6,
+      "to_name": "Nolands Ferry"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-74",
+      "to_mile": 175.5,
+      "to_name": "Lock 74"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-75",
+      "to_mile": 175.7,
+      "to_name": "Lock 75"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-73",
+      "to_mile": 175.4,
+      "to_name": "Lock 73"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-irons-mountain-175-3",
+      "to_mile": 175.3,
+      "to_name": "Irons Mountain"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-river-road-176-4",
+      "to_mile": 176.4,
+      "to_name": "River Road"
+    },
+    {
+      "from_id": "access-old-angler-s-inn-12-2",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-anglers-access-12-2",
+      "to_mile": 12.2,
+      "to_name": "Anglers Access"
+    },
+    {
+      "from_id": "access-old-angler-s-inn-12-2",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-marsden-tract-11-5",
+      "to_mile": 11.5,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-old-angler-s-inn-12-2",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-marsden-tract-11-4",
+      "to_mile": 11.4,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-oldtown-lock-70-166-7",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-70",
+      "to_mile": 166.7,
+      "to_name": "Lock 70"
+    },
+    {
+      "from_id": "access-oldtown-lock-70-166-7",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-oldtown-battie-mixon-166-7",
+      "to_mile": 166.7,
+      "to_name": "Oldtown Battie Mixon"
+    },
+    {
+      "from_id": "access-oldtown-lock-70-166-7",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-69",
+      "to_mile": 166.5,
+      "to_name": "Lock 69"
+    },
+    {
+      "from_id": "access-oldtown-lock-70-166-7",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-71",
+      "to_mile": 167.0,
+      "to_name": "Lock 71"
+    },
+    {
+      "from_id": "access-paw-paw-tunnel-156-2",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-paw-paw-156-1",
+      "to_mile": 156.1,
+      "to_name": "Paw Paw"
+    },
+    {
+      "from_id": "access-paw-paw-tunnel-156-2",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-purslane-run-156-9",
+      "to_mile": 156.9,
+      "to_name": "Purslane Run"
+    },
+    {
+      "from_id": "access-pearre-road-dam-6-134-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-54",
+      "to_mile": 134.0,
+      "to_name": "Lock 54"
+    },
+    {
+      "from_id": "access-pearre-road-dam-6-134-0",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-55",
+      "to_mile": 134.2,
+      "to_name": "Lock 55"
+    },
+    {
+      "from_id": "access-pearre-road-dam-6-134-0",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-cacapon-juntion-133-6",
+      "to_mile": 133.6,
+      "to_name": "Cacapon Juntion"
+    },
+    {
+      "from_id": "access-pennyfield-lock-19-6",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-22",
+      "to_mile": 19.6,
+      "to_name": "Lock 22"
+    },
+    {
+      "from_id": "access-point-of-rocks-48-2",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-point-of-rocks-48-2",
+      "to_mile": 48.2,
+      "to_name": "Point of Rocks"
+    },
+    {
+      "from_id": "access-point-of-rocks-48-2",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-calico-rocks-47-6",
+      "to_mile": 47.6,
+      "to_name": "Calico Rocks"
+    },
+    {
+      "from_id": "access-point-of-rocks-48-2",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-28",
+      "to_mile": 48.9,
+      "to_name": "Lock 28"
+    },
+    {
+      "from_id": "access-railroad-bridge-shepherdstown-72-4",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-38",
+      "to_mile": 72.7,
+      "to_name": "Lock 38"
+    },
+    {
+      "from_id": "access-railroad-bridge-shepherdstown-72-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-38-shepherdstown-72-8",
+      "to_mile": 72.8,
+      "to_name": "Lock 38 (Shepherdstown)"
+    },
+    {
+      "from_id": "access-railroad-bridge-shepherdstown-72-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-ferry-hill-72-8",
+      "to_mile": 72.8,
+      "to_name": "Ferry Hill"
+    },
+    {
+      "from_id": "access-rileys-lock-22-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-24",
+      "to_mile": 22.8,
+      "to_name": "Lock 24"
+    },
+    {
+      "from_id": "access-rileys-lock-22-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-seneca-rileys-lock-22-8",
+      "to_mile": 22.8,
+      "to_name": "Seneca (Rileys Lock)"
+    },
+    {
+      "from_id": "access-rileys-lock-22-8",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-violettes-lock-22-1",
+      "to_mile": 22.1,
+      "to_name": "Violettes Lock"
+    },
+    {
+      "from_id": "access-rileys-lock-22-8",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-23",
+      "to_mile": 22.1,
+      "to_name": "Lock 23"
+    },
+    {
+      "from_id": "access-river-road-176-4",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-75",
+      "to_mile": 175.7,
+      "to_name": "Lock 75"
+    },
+    {
+      "from_id": "access-river-road-176-4",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-north-branch-175-6",
+      "to_mile": 175.6,
+      "to_name": "North Branch"
+    },
+    {
+      "from_id": "access-river-road-176-4",
+      "mile_distance": 0.9,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-74",
+      "to_mile": 175.5,
+      "to_name": "Lock 74"
+    },
+    {
+      "from_id": "access-river-road-176-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-73",
+      "to_mile": 175.4,
+      "to_name": "Lock 73"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-8-8-3",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-8",
+      "to_mile": 8.3,
+      "to_name": "Lock 8"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-9",
+      "to_mile": 8.7,
+      "to_name": "Lock 9"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-10-8-8",
+      "to_mile": 8.8,
+      "to_name": "Lock 10"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-10",
+      "to_mile": 8.8,
+      "to_name": "Lock 10"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-cabin-john-aqueduct-7-7",
+      "to_mile": 7.7,
+      "to_name": "Cabin John Aqueduct"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-11",
+      "to_mile": 9.0,
+      "to_name": "Lock 11"
+    },
+    {
+      "from_id": "access-riverside-drive-8-3",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-12",
+      "to_mile": 9.3,
+      "to_name": "Lock 12"
+    },
+    {
+      "from_id": "access-snyders-landing-76-7",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-snyders-landing-76-6",
+      "to_mile": 76.6,
+      "to_name": "Snyders Landing"
+    },
+    {
+      "from_id": "access-spring-dell-road-89-1",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-42",
+      "to_mile": 89.0,
+      "to_name": "Lock 42"
+    },
+    {
+      "from_id": "access-spring-dell-road-89-1",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-41",
+      "to_mile": 88.9,
+      "to_name": "Lock 41"
+    },
+    {
+      "from_id": "access-spring-dell-road-89-1",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-mcmahons-mill-88-1",
+      "to_mile": 88.1,
+      "to_name": "McMahons Mill"
+    },
+    {
+      "from_id": "access-spring-dell-road-89-1",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-mcmahons-mill-88-1",
+      "to_mile": 88.1,
+      "to_name": "McMahons Mill"
+    },
+    {
+      "from_id": "access-spring-gap-173-3",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-spring-gap-173-3",
+      "to_mile": 173.3,
+      "to_name": "Spring Gap"
+    },
+    {
+      "from_id": "access-swains-lock-16-6",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-21",
+      "to_mile": 16.7,
+      "to_name": "Lock 21"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-walhonding-road-footbridge-6-4",
+      "to_mile": 6.4,
+      "to_name": "Walhonding Road footbridge"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-sycamore-island-6-5",
+      "to_mile": 6.5,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-7-7-0",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-7",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-6-5-4",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-valley-road-brookmont-5-4",
+      "to_mile": 5.4,
+      "to_name": "Valley Road (Brookmont)"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-sycamore-landing-27-2",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-sycamore-landing-27-2",
+      "to_mile": 27.2,
+      "to_name": "Sycamore Landing"
+    },
+    {
+      "from_id": "access-taylors-landing-81-0",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-taylors-landing-80-9",
+      "to_mile": 80.9,
+      "to_name": "Taylors Landing"
+    },
+    {
+      "from_id": "access-town-creek-aqueduct-162-3",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-town-creek-162-1",
+      "to_mile": 162.1,
+      "to_name": "Town Creek"
+    },
+    {
+      "from_id": "access-town-creek-aqueduct-162-3",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-67-161-9",
+      "to_mile": 161.9,
+      "to_name": "Lock 67"
+    },
+    {
+      "from_id": "access-town-creek-aqueduct-162-3",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-67",
+      "to_mile": 161.7,
+      "to_name": "Lock 67"
+    },
+    {
+      "from_id": "access-twigg-hollow-153-3",
+      "mile_distance": 0.2,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-61",
+      "to_mile": 153.1,
+      "to_name": "Lock 61"
+    },
+    {
+      "from_id": "access-twigg-hollow-153-3",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-62",
+      "to_mile": 154.1,
+      "to_name": "Lock 62"
+    },
+    {
+      "from_id": "access-twigg-hollow-153-3",
+      "mile_distance": 0.8,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-sorrel-ridge-154-1",
+      "to_mile": 154.1,
+      "to_name": "Sorrel Ridge"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-6-5-4",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-brookmont-footbridge-5-0",
+      "to_mile": 5.0,
+      "to_name": "Brookmont footbridge"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 0.4,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-5",
+      "to_mile": 5.0,
+      "to_name": "Lock 5"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-sycamore-island-6-4",
+      "to_mile": 6.4,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-valley-road-brookmont-5-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-walhonding-road-footbridge-6-4",
+      "to_mile": 6.4,
+      "to_name": "Walhonding Road footbridge"
+    },
+    {
+      "from_id": "access-violettes-lock-22-1",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-23",
+      "to_mile": 22.1,
+      "to_name": "Lock 23"
+    },
+    {
+      "from_id": "access-violettes-lock-22-1",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-rileys-lock-22-8",
+      "to_mile": 22.8,
+      "to_name": "Rileys Lock"
+    },
+    {
+      "from_id": "access-violettes-lock-22-1",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-24",
+      "to_mile": 22.8,
+      "to_name": "Lock 24"
+    },
+    {
+      "from_id": "access-violettes-lock-22-1",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-seneca-rileys-lock-22-8",
+      "to_mile": 22.8,
+      "to_name": "Seneca (Rileys Lock)"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-sycamore-island-6-4",
+      "to_mile": 6.4,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 0.1,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-sycamore-island-6-5",
+      "to_mile": 6.5,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-7-7-0",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 0.6,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-7",
+      "to_mile": 7.0,
+      "to_name": "Lock 7"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-6-5-4",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-valley-road-brookmont-5-4",
+      "to_mile": 5.4,
+      "to_name": "Valley Road (Brookmont)"
+    },
+    {
+      "from_id": "access-walhonding-road-footbridge-6-4",
+      "mile_distance": 1.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-weverton-58-0",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-31",
+      "to_mile": 58.0,
+      "to_name": "Lock 31"
+    },
+    {
+      "from_id": "access-whites-ferry-35-5",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-whites-ferry-35-5",
+      "to_mile": 35.5,
+      "to_name": "Whites Ferry"
+    },
+    {
+      "from_id": "access-williamsport-visitor-center-99-8",
+      "mile_distance": 0.0,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "nps-cushwa-basin-williamsport-99-8",
+      "to_mile": 99.8,
+      "to_name": "Cushwa Basin (Williamsport)"
+    },
+    {
+      "from_id": "access-williamsport-visitor-center-99-8",
+      "mile_distance": 0.5,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-44-99-3",
+      "to_mile": 99.3,
+      "to_name": "Lock 44"
+    },
+    {
+      "from_id": "access-williamsport-visitor-center-99-8",
+      "mile_distance": 0.7,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-44",
+      "to_mile": 99.1,
+      "to_name": "Lock 44"
+    },
+    {
+      "from_id": "access-wmrt-pearre-parking-lot-135-9",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "access-lock-56-pearre-136-2",
+      "to_mile": 136.2,
+      "to_name": "Lock 56 (Pearre)"
+    },
+    {
+      "from_id": "access-wmrt-pearre-parking-lot-135-9",
+      "mile_distance": 0.3,
+      "relationship_type": "nearby",
+      "source_id": null,
+      "to_id": "lock-56",
+      "to_mile": 136.2,
+      "to_name": "Lock 56"
+    },
+    {
+      "from_id": "access-antietam-69-5",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-antietam-creek-69-6",
+      "to_mile": 69.6,
+      "to_name": "Antietam Creek"
+    },
+    {
+      "from_id": "access-big-slackwater-boat-ramp-85-4",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-big-slackwater-85-5",
+      "to_mile": 85.5,
+      "to_name": "Big Slackwater"
+    },
+    {
+      "from_id": "access-brunswick-55-0",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-brunswick-55-0",
+      "to_mile": 55.0,
+      "to_name": "Brunswick"
+    },
+    {
+      "from_id": "access-carderock-10-4",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-carderock-10-5",
+      "to_mile": 10.5,
+      "to_name": "Carderock"
+    },
+    {
+      "from_id": "access-cohill-station-130-7",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-cohill-station-130-7",
+      "to_mile": 130.7,
+      "to_name": "Cohill Station"
+    },
+    {
+      "from_id": "access-cumberland-visitor-center-184-5",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-canal-terminus-cumberland-184-5",
+      "to_mile": 184.5,
+      "to_name": "Canal Terminus (Cumberland)"
+    },
+    {
+      "from_id": "access-dam-no-4-84-4",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-dam-4-84-4",
+      "to_mile": 84.4,
+      "to_name": "Dam 4"
+    },
+    {
+      "from_id": "access-dam-no-5-106-8",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-dam-5-106-8",
+      "to_mile": 106.8,
+      "to_name": "Dam 5"
+    },
+    {
+      "from_id": "access-dargan-bend-64-9",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-dargan-bend-64-9",
+      "to_mile": 64.9,
+      "to_name": "Dargan Bend"
+    },
+    {
+      "from_id": "access-edwards-ferry-30-8",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-edwards-ferry-30-8",
+      "to_mile": 30.8,
+      "to_name": "Edwards Ferry"
+    },
+    {
+      "from_id": "access-fletchers-cove-3-1",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-fletchers-cove-3-1",
+      "to_mile": 3.1,
+      "to_name": "Fletchers Cove"
+    },
+    {
+      "from_id": "access-fort-frederick-112-4",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-fort-frederick-state-park-112-4",
+      "to_mile": 112.4,
+      "to_name": "Fort Frederick State Park"
+    },
+    {
+      "from_id": "access-four-locks-108-8",
+      "mile_distance": 0.2,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-four-locks-109-0",
+      "to_mile": 109.0,
+      "to_name": "Four Locks"
+    },
+    {
+      "from_id": "access-georgetown-0-0",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-3",
+      "to_mile": 0.4,
+      "to_name": "Lock 3 (Georgetown)"
+    },
+    {
+      "from_id": "access-great-falls-14-3",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-great-falls-14-3",
+      "to_mile": 14.3,
+      "to_name": "Great Falls"
+    },
+    {
+      "from_id": "access-lander-50-9",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-29",
+      "to_mile": 50.8,
+      "to_name": "Lock 29 (Lander)"
+    },
+    {
+      "from_id": "access-licking-creek-116-3",
+      "mile_distance": 0.3,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-licking-creek-116-0",
+      "to_mile": 116.0,
+      "to_name": "Licking Creek"
+    },
+    {
+      "from_id": "access-lock-10-8-8",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-10",
+      "to_mile": 8.8,
+      "to_name": "Lock 10 (Seven Locks)"
+    },
+    {
+      "from_id": "access-lock-38-shepherdstown-72-8",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-38",
+      "to_mile": 72.7,
+      "to_name": "Lock 38 (Shepherdstown)"
+    },
+    {
+      "from_id": "access-lock-44-99-3",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-44",
+      "to_mile": 99.2,
+      "to_name": "Lock 44"
+    },
+    {
+      "from_id": "access-lock-6-5-4",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-6",
+      "to_mile": 5.4,
+      "to_name": "Lock 6"
+    },
+    {
+      "from_id": "access-lock-7-7-0",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-7",
+      "to_mile": 7.0,
+      "to_name": "Lock 7 (Glen Echo)"
+    },
+    {
+      "from_id": "access-lock-8-8-3",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-8",
+      "to_mile": 8.3,
+      "to_name": "Lock 8 (Seven Locks)"
+    },
+    {
+      "from_id": "access-marsden-tract-11-4",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-marsden-tract-11-5",
+      "to_mile": 11.5,
+      "to_name": "Marsden Tract"
+    },
+    {
+      "from_id": "access-mccoys-ferry-110-4",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-mccoys-ferry-110-4",
+      "to_mile": 110.4,
+      "to_name": "McCoys Ferry"
+    },
+    {
+      "from_id": "access-mcmahons-mill-88-1",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-mcmahons-mill-88-1",
+      "to_mile": 88.1,
+      "to_name": "McMahons Mill"
+    },
+    {
+      "from_id": "access-monocacy-aqueduct-42-1",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-monocacy-aqueduct-42-2",
+      "to_mile": 42.2,
+      "to_name": "Monocacy Aqueduct"
+    },
+    {
+      "from_id": "access-nolands-ferry-44-6",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-nolands-ferry-44-6",
+      "to_mile": 44.6,
+      "to_name": "Nolands Ferry"
+    },
+    {
+      "from_id": "access-north-branch-175-6",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-75",
+      "to_mile": 175.5,
+      "to_name": "Lock 75 (North Branch)"
+    },
+    {
+      "from_id": "access-old-angler-s-inn-12-2",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-anglers-access-12-2",
+      "to_mile": 12.2,
+      "to_name": "Anglers Access"
+    },
+    {
+      "from_id": "access-oldtown-lock-70-166-7",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-oldtown-battie-mixon-166-7",
+      "to_mile": 166.7,
+      "to_name": "Oldtown Battie Mixon"
+    },
+    {
+      "from_id": "access-paw-paw-tunnel-156-2",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-paw-paw-156-1",
+      "to_mile": 156.1,
+      "to_name": "Paw Paw"
+    },
+    {
+      "from_id": "access-pennyfield-lock-19-6",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-22",
+      "to_mile": 19.6,
+      "to_name": "Lock 22 (Pennyfield Lock)"
+    },
+    {
+      "from_id": "access-point-of-rocks-48-2",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-point-of-rocks-48-2",
+      "to_mile": 48.2,
+      "to_name": "Point of Rocks"
+    },
+    {
+      "from_id": "access-rileys-lock-22-8",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-seneca-rileys-lock-22-8",
+      "to_mile": 22.8,
+      "to_name": "Seneca (Rileys Lock)"
+    },
+    {
+      "from_id": "access-snyders-landing-76-7",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-snyders-landing-76-6",
+      "to_mile": 76.6,
+      "to_name": "Snyders Landing"
+    },
+    {
+      "from_id": "access-spring-gap-173-3",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-spring-gap-173-3",
+      "to_mile": 173.3,
+      "to_name": "Spring Gap"
+    },
+    {
+      "from_id": "access-swains-lock-16-6",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-21",
+      "to_mile": 16.7,
+      "to_name": "Lock 21 (Swains Lock)"
+    },
+    {
+      "from_id": "access-sycamore-island-6-4",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-sycamore-island-6-5",
+      "to_mile": 6.5,
+      "to_name": "Sycamore Island"
+    },
+    {
+      "from_id": "access-sycamore-landing-27-2",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-sycamore-landing-27-2",
+      "to_mile": 27.2,
+      "to_name": "Sycamore Landing"
+    },
+    {
+      "from_id": "access-taylors-landing-81-0",
+      "mile_distance": 0.1,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-taylors-landing-80-9",
+      "to_mile": 80.9,
+      "to_name": "Taylors Landing"
+    },
+    {
+      "from_id": "access-town-creek-aqueduct-162-3",
+      "mile_distance": 0.2,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-town-creek-162-1",
+      "to_mile": 162.1,
+      "to_name": "Town Creek"
+    },
+    {
+      "from_id": "access-violettes-lock-22-1",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "lock-23",
+      "to_mile": 22.1,
+      "to_name": "Lock 23 (Violettes Lock)"
+    },
+    {
+      "from_id": "access-whites-ferry-35-5",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-whites-ferry-35-5",
+      "to_mile": 35.5,
+      "to_name": "Whites Ferry"
+    },
+    {
+      "from_id": "access-williamsport-visitor-center-99-8",
+      "mile_distance": 0.0,
+      "relationship_type": "source_match",
+      "source_id": "nps_recreation_guide",
+      "to_id": "nps-cushwa-basin-williamsport-99-8",
+      "to_mile": 99.8,
+      "to_name": "Cushwa Basin (Williamsport)"
+    }
+  ],
+  "schema_version": 1
+}

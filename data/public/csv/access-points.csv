@@ -1,0 +1,82 @@
+id,name,mile,mile_end,latitude,longitude,has_amenity_data,parking,restrooms,water,picnic_tables,camping,camping_fee_area,camping_tent,boat_ramp,canoe_kayak_ramp,visitor_center,food,bike_rentals,boat_rentals,canal_quarters,fee_area,source_ids
+access-georgetown-0-0,Georgetown,0.0,1.1,38.904167,-77.060133,true,false,true,true,false,false,false,false,false,false,true,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-fletchers-cove-3-1,Fletchers Cove,3.1,,38.918691,-77.102019,true,true,true,false,true,false,false,false,false,false,false,true,true,true,false,false,co_canal_association_access_points|nps_recreation_guide
+access-chain-bridge-4-0,Chain Bridge,4.0,,38.932841,-77.112844,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-brookmont-footbridge-5-0,Brookmont footbridge,5.0,,38.939982,-77.120157,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-6-5-4,Lock 6,5.4,,38.944737,-77.123348,true,true,false,false,true,false,false,false,false,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-valley-road-brookmont-5-4,Valley Road (Brookmont),5.4,,38.94546,-77.122672,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-sycamore-island-6-4,Sycamore Island,6.4,,38.95832,-77.131465,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-walhonding-road-footbridge-6-4,Walhonding Road footbridge,6.4,,38.958303,-77.130849,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-7-7-0,Lock 7,7.0,,38.964611,-77.138363,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-cabin-john-aqueduct-7-7,Cabin John Aqueduct,7.7,,38.972854,-77.147357,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-8-8-3,Lock 8,8.3,,38.971559,-77.160636,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-riverside-drive-8-3,Riverside Drive,8.3,,38.97208,-77.1621,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-10-8-8,Lock 10,8.8,,38.972631,-77.169278,true,true,false,true,true,false,false,false,false,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-carderock-10-4,Carderock,10.4,10.8,38.97456,-77.201968,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-marsden-tract-11-4,Marsden Tract,11.4,,38.978697,-77.215888,true,false,true,true,false,true,true,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-old-angler-s-inn-12-2,Old Angler's Inn,12.2,,38.981897,-77.226205,true,true,true,true,false,false,false,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-great-falls-14-3,Great Falls,14.3,,39.001748,-77.246836,true,true,true,true,true,false,false,false,false,false,true,true,false,false,false,true,co_canal_association_access_points|nps_recreation_guide
+access-swains-lock-16-6,Swains Lock,16.6,,39.031634,-77.243531,true,true,true,true,true,true,false,true,false,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-pennyfield-lock-19-6,Pennyfield Lock,19.6,,39.054972,-77.290334,true,true,true,false,false,false,false,false,false,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-violettes-lock-22-1,Violettes Lock,22.1,,39.067226,-77.328483,true,true,true,false,true,false,false,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-rileys-lock-22-8,Rileys Lock,22.8,,39.069167,-77.340877,true,true,true,false,true,false,false,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-sycamore-landing-27-2,Sycamore Landing,27.2,,39.074731,-77.420193,true,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-edwards-ferry-30-8,Edwards Ferry,30.8,,39.103463,-77.472933,true,true,false,false,false,false,false,false,true,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-whites-ferry-35-5,Whites Ferry,35.5,,39.154861,-77.518206,true,true,true,false,true,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-dickerson-conservation-park-39-6,Dickerson Conservation Park,39.6,,39.194685,-77.469402,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-monocacy-aqueduct-42-1,Monocacy Aqueduct,42.1,,39.222563,-77.449987,true,true,true,false,true,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-nolands-ferry-44-6,Nolands Ferry,44.6,,39.249948,-77.482726,true,true,true,false,true,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-point-of-rocks-48-2,Point of Rocks,48.2,,39.273218,-77.540045,true,true,true,false,false,false,false,false,true,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-lander-50-9,Lander,50.9,,39.306507,-77.558006,true,true,true,false,false,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-brunswick-55-0,Brunswick,55.0,,39.31122,-77.630749,true,true,true,false,true,false,false,false,true,false,true,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-weverton-58-0,Weverton,58.0,,39.329916,-77.681966,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-maryland-heights-61-3,Maryland Heights,61.3,,39.329395,-77.731919,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-34-61-6,Lock 34,61.6,,39.33343,-77.738577,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-dargan-bend-64-9,Dargan Bend,64.9,,39.364182,-77.740073,true,true,true,false,true,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-mountain-lock-67-0,Mountain Lock,67.0,,39.385295,-77.734451,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-antietam-69-5,Antietam,69.5,,39.419001,-77.74657,true,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-railroad-bridge-shepherdstown-72-4,Railroad bridge (Shepherdstown),72.4,,39.433927,-77.795512,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-38-shepherdstown-72-8,Lock 38 (Shepherdstown),72.8,,39.436456,-77.799527,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-snyders-landing-76-7,Snyders Landing,76.7,,39.46527,-77.777313,true,true,true,false,false,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-taylors-landing-81-0,Taylors Landing,81.0,,39.499645,-77.767866,true,true,true,false,false,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-dam-no-4-84-4,Dam No. 4,84.4,,39.496001,-77.826266,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-big-slackwater-boat-ramp-85-4,Big Slackwater Boat Ramp,85.4,,39.501346,-77.845385,true,true,true,false,true,false,false,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-mcmahons-mill-88-1,McMahons Mill,88.1,,39.530654,-77.823522,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-spring-dell-road-89-1,Spring Dell Road,89.1,,39.530309,-77.844116,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-44-99-3,Lock 44,99.3,,39.595037,-77.824712,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-williamsport-visitor-center-99-8,Williamsport Visitor Center,99.8,,39.600996,-77.826927,true,true,true,true,true,false,false,false,true,false,true,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-gift-road-103-3,Gift Road,103.3,,39.616863,-77.888503,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-dam-no-5-road-106-2,Dam No. 5 Road,106.2,,39.604678,-77.911877,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-dam-no-5-106-8,Dam No. 5,106.8,,39.607079,-77.921117,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-lock-46-107-4,Lock 46,107.4,,39.615866,-77.926626,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-four-locks-108-8,Four Locks,108.8,,39.615311,-77.947494,true,true,true,true,true,false,false,false,true,false,false,false,false,false,true,false,co_canal_association_access_points|nps_recreation_guide
+access-mccoys-ferry-110-4,McCoys Ferry,110.4,,39.609261,-77.970065,true,true,true,true,true,true,true,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-fort-frederick-112-4,Fort Frederick,112.4,,39.605391,-78.005041,true,true,false,false,true,true,true,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-ernstville-road-114-5,Ernstville Road,114.5,,39.63297,-78.028951,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-licking-creek-116-3,Licking Creek,116.3,,39.655987,-78.053946,true,false,true,true,false,true,false,true,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-little-pool-119-6,Little Pool,119.6,,39.68443,-78.103796,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-hancock-visitor-center-122-8,Hancock Visitor Center,122.8,,39.694227,-78.154046,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-hancock-124-1,Hancock,124.1,,39.698253,-78.181036,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-berm-road-125-6,Berm Road,125.6,,39.683618,-78.199002,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-cohill-station-130-7,Cohill Station,130.7,,39.645446,-78.251711,true,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-pearre-road-dam-6-134-0,"Pearre Road, Dam #6",134.0,,39.628174,-78.298256,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-wmrt-pearre-parking-lot-135-9,WMRT Pearre parking lot,135.9,,39.63648,-78.323262,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-lock-56-pearre-136-2,Lock 56 (Pearre),136.2,,39.637868,-78.328302,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-little-orleans-140-8,Little Orleans,140.8,,39.625648,-78.385868,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-kasecamp-road-147-1,Kasecamp Road,147.1,,39.603639,-78.42582,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-bonds-landing-150-1,Bonds Landing,150.1,,39.582848,-78.411246,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-roby-hollow-151-2,Roby Hollow,151.2,,39.590113,-78.429294,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-twigg-hollow-153-3,Twigg Hollow,153.3,,39.58128,-78.46154,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-paw-paw-tunnel-156-2,Paw Paw Tunnel,156.2,,39.54445,-78.460806,true,true,true,true,true,true,true,false,false,true,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-lock-67-161-9,Lock 67,161.9,,39.5256,-78.53626,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-town-creek-aqueduct-162-3,Town Creek Aqueduct,162.3,,39.523862,-78.543122,true,false,true,true,false,true,false,true,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-oldtown-lock-70-166-7,Oldtown (Lock 70),166.7,,39.540405,-78.611936,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-spring-gap-173-3,Spring Gap,173.3,,39.564306,-78.719289,true,true,false,true,true,true,true,false,true,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-north-branch-175-6,North Branch,175.6,,39.587698,-78.743462,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide
+access-river-road-176-4,River Road,176.4,,39.587303,-78.754629,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-mexico-farms-178-3,Mexico Farms,178.3,,39.599369,-78.750544,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-brehm-road-178-9,Brehm Road,178.9,,39.603402,-78.741713,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-candoc-recreation-area-181-8,Candoc Recreation Area,181.8,,39.625274,-78.759307,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-canal-parkway-182-6,Canal Parkway,182.6,,39.622741,-78.773223,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-elizabeth-street-183-1,Elizabeth Street,183.1,,39.629393,-78.773132,false,,,,,,,,,,,,,,,,co_canal_association_access_points
+access-cumberland-visitor-center-184-5,Cumberland Visitor Center,184.5,,39.649348,-78.7628,true,true,true,true,false,false,false,false,false,false,true,false,false,false,false,false,co_canal_association_access_points|nps_recreation_guide

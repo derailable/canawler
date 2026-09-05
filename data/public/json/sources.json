@@ -1,0 +1,67 @@
+{
+  "artifacts": {
+    "access-points": [
+      "co_canal_association_access_points",
+      "nps_recreation_guide"
+    ],
+    "features": [
+      "co_canal_association_access_points",
+      "nps_lift_locks",
+      "nps_recreation_guide",
+      "nps_towpath_reference",
+      "co_canal_trust_locks"
+    ],
+    "locks": [
+      "nps_lift_locks",
+      "co_canal_trust_locks",
+      "nps_towpath_reference"
+    ],
+    "relationships": [
+      "co_canal_association_access_points",
+      "nps_lift_locks",
+      "nps_recreation_guide",
+      "co_canal_trust_locks"
+    ],
+    "towpath.geojson": [
+      "nps_towpath_reference"
+    ]
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "description": "Access-point names, mile ranges, and coordinates.",
+      "id": "co_canal_association_access_points",
+      "name": "C&O Canal Association",
+      "organization": "C&O Canal Association",
+      "url": "https://candocanal.org/access/"
+    },
+    {
+      "description": "Practical lift-lock mileposts and common names.",
+      "id": "co_canal_trust_locks",
+      "name": "C&O Canal Trust",
+      "organization": "C&O Canal Trust",
+      "url": "https://www.canaltrust.org/pyvactivities/locks/"
+    },
+    {
+      "description": "Authority for the lift-lock count and numbering.",
+      "id": "nps_lift_locks",
+      "name": "National Park Service Lift Locks",
+      "organization": "National Park Service",
+      "url": "https://www.nps.gov/choh/learn/historyculture/lift-locks.htm"
+    },
+    {
+      "description": "Recreation locations and listed visitor amenities.",
+      "id": "nps_recreation_guide",
+      "name": "National Park Service C&O Canal Recreational Guide by Milepost",
+      "organization": "National Park Service",
+      "url": "https://www.nps.gov/common/uploads/sortable_dataset/choh/E3324057-FAAC-0D9B-C75464422AFC4A4C/choh-CHOHRecreationalGuidebyMilepost.csv"
+    },
+    {
+      "description": "Underlying geometry for the canonical C&O Canal towpath.",
+      "id": "nps_towpath_reference",
+      "name": "National Park Service Public Trails dataset",
+      "organization": "National Park Service",
+      "url": "https://mapservices.nps.gov/arcgis/rest/services/NationalDatasets/NPS_Public_Trails_Geographic/FeatureServer/0"
+    }
+  ]
+}

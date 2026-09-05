@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+Canawler is a public data project about the Chesapeake & Ohio Canal: its towpath,
+locks, access points, visitor amenities, and selected canal-corridor features. It
+focuses on a coherent, reproducible data foundation rather than personal progress
+tracking or a comprehensive railroad-history inventory.
+
+## Provenance
+
+The current reference inputs draw from:
+
+- the National Park Service Public Trails dataset for towpath geometry;
+- the NPS C&O Canal Recreational Guide by Milepost for places and amenities;
+- the C&O Canal Association access guide for practical access locations; and
+- NPS and C&O Canal Trust lock references for numbering, mileposts, and names.
+
+Canawler performs normalization, deterministic ID assignment, reference matching,
+linear referencing, relationship generation, and validation. Those derived facts
+are identified separately from source facts in the [source registry](data/public/json/sources.json).
+
+The data supports exploration and analysis. It is not a navigation product and
+should not be treated as current trail-condition guidance.

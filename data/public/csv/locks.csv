@@ -1,0 +1,75 @@
+id,lock_number,name,common_name,mile,alternate_mile,latitude,longitude,notes,source_ids
+lock-1,1,Lock 1,,0.3,0.38,38.904312,-77.062282,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-2,2,Lock 2,,0.3,0.42,38.904312,-77.062282,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-3,3,Lock 3,,0.4,0.49,38.904339,-77.06415,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-4,4,Lock 4,,0.4,0.54,38.904339,-77.06415,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-5,5,Lock 5,Brookmont Lock & Inlet #1,5.0,5.0,38.943533,-77.123622,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-6,6,Lock 6,Magazine Lock,5.4,5.4,38.948796,-77.126374,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-7,7,Lock 7,Chataqua Lock,7.0,7.0,38.967531,-77.14273,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-8,8,Lock 8,Seven Locks 1,8.3,8.33,38.971948,-77.165281,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-9,9,Lock 9,Seven Locks 2,8.7,8.7,38.972338,-77.17271,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-10,10,Lock 10,Seven Locks 3,8.8,8.79,38.972457,-77.174573,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-11,11,Lock 11,Seven Locks 4,9.0,8.97,38.972291,-77.17829,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-12,12,Lock 12,Seven Locks 5,9.3,9.29,38.971671,-77.183842,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-13,13,Lock 13,Seven Locks 6,9.4,9.37,38.971454,-77.185691,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-14,14,Lock 14,Seven Locks 7,9.5,9.47,38.971243,-77.187541,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-15,15,Lock 15,Six Locks 1,13.6,13.45,38.995503,-77.247152,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-16,16,Lock 16,Six Locks 2,13.7,13.6,38.996591,-77.248345,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-17,17,Lock 17,Six Locks 3,14.1,13.99,39.00219,-77.247714,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-18,18,Lock 18,Six Locks 4,14.2,14.09,39.003489,-77.246929,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-19,19,Lock 19,Six Locks 5,14.3,14.17,39.004788,-77.246142,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-20,20,Lock 20,Six Locks 6 / Tavern Lock,14.4,14.3,39.006121,-77.245455,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-21,21,Lock 21,Swains Lock,16.7,16.64,39.034545,-77.248538,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-22,22,Lock 22,Pennyfield Lock,19.6,19.63,39.055936,-77.292916,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-23,23,Lock 23,Violette's Lock,22.1,22.12,39.068232,-77.333591,Also associated with Inlet Lock 2.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-24,24,Lock 24,Riley's Lock,22.8,22.76,39.068286,-77.346606,At Seneca Aqueduct.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-25,25,Lock 25,Edward's Ferry,30.8,30.8,39.107701,-77.474461,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-26,26,Lock 26,Wood's Lock,39.4,39.4,39.193486,-77.470144,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-27,27,Lock 27,Spinks Ferry,41.5,41.5,39.218818,-77.454126,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-28,28,Lock 28,Fulton's Lock / Dent's Lock,48.9,48.9,39.283511,-77.549342,C&O Canal Trust has a conflicting Lock 28 POI record showing 50.8; its Lockhouse 28 record and historical references place Lock 28 at about 48.9.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-29,29,Lock 29,Lander Lock / Catoctin Lock,50.8,50.89,39.307897,-77.559807,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-30,30,Lock 30,,55.0,55.0,39.31242,-77.634638,Remains of Lock 30 in Brunswick.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-31,31,Lock 31,Weverton Lock,58.0,58.0,39.328068,-77.683948,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-32,32,Lock 32,,60.2,60.23,39.323567,-77.72272,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-33,33,Lock 33,,60.7,60.7,39.327557,-77.729463,Near Harpers Ferry.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-34,34,Lock 34,Goodheart's Lock,61.5,61.57,39.334099,-77.741529,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-35,35,Lock 35,,62.3,62.33,39.337156,-77.754509,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-36,36,Lock 36,,62.5,62.44,39.339316,-77.756845,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-37,37,Lock 37,Mountain Lock,66.9,66.96,39.386103,-77.733989,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-38,38,Lock 38,Shepherdstown Lock,72.7,72.65,39.436923,-77.800382,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-39,39,Lock 39,One Mile Lock,74.0,74.0,39.446563,-77.782969,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-40,40,Lock 40,,79.4,79.41,39.486323,-77.777038,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-41,41,Lock 41,,88.9,88.9,39.532456,-77.839459,Above Big Slackwater.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-42,42,Lock 42,,89.0,89.04,39.531319,-77.840599,Above Big Slackwater.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-43,43,Lock 43,,92.9,92.96,39.543371,-77.867558,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-44,44,Lock 44,Williamsport,99.1,99.3,39.592623,-77.825474,Mile references vary slightly by source.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-45,45,Lock 45,Two Locks 1,107.0,107.27,39.610333,-77.92506,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-46,46,Lock 46,Two Locks 2,107.2,107.42,39.613054,-77.925573,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-47,47,Lock 47,Four Locks 1,108.7,108.8,39.616916,-77.946986,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-48,48,Lock 48,Four Locks 2,108.8,108.8,39.615704,-77.947982,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-49,49,Lock 49,Four Locks 3,108.9,108.8,39.614369,-77.948654,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-50,50,Lock 50,Four Locks 4,109.0,108.8,39.613005,-77.949229,Beginning of the 14-mile level.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-51,51,Lock 51,Hancock 1,122.7,122.59,39.692982,-78.150004,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-52,52,Lock 52,Hancock 2,122.9,122.85,39.69346,-78.153723,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-53,53,Lock 53,Irishman's Lock,130.1,130.0,39.651246,-78.241386,Near Leopards Mill.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-54,54,Lock 54,,134.0,134.0,39.623685,-78.289192,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-55,55,Lock 55,,134.2,134.0,39.625375,-78.292234,At Dam 6 / Guard Lock 6.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-56,56,Lock 56,Sideling Lock,136.2,136.2,39.636717,-78.326765,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-57,57,Lock 57,,139.4,139.2,39.627721,-78.362741,Mile references vary slightly by source.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-58,58,Lock 58,,144.0,143.9,39.620124,-78.404766,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-59,59,Lock 59,,146.5,146.6,39.611125,-78.43243,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-60,60,Lock 60,,149.6,149.7,39.582287,-78.402933,Stickpile Hill.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-61,61,Lock 61,,153.1,153.1,39.583308,-78.459972,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-62,62,Lock 62,,154.1,154.2,39.570954,-78.452925,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-63-1-3,63 1/3,Lock 63 1/3,,154.5,154.5,39.566306,-78.454759,Fractional numbering is official. There is no ordinary Lock 63.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-64-2-3,64 2/3,Lock 64 2/3,,154.6,154.6,39.565278,-78.456065,Fractional numbering is official. There is no ordinary Lock 64.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-66,66,Lock 66,,154.7,154.7,39.564317,-78.457462,Lock 65 was eliminated and was never built as a lift lock.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-67,67,Lock 67,Darbey's Lock,161.7,161.8,39.525514,-78.533007,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-68,68,Lock 68,Crabtree's Lock,164.8,164.8,39.530476,-78.588689,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-69,69,Lock 69,Twigg's Lock,166.5,166.4,39.539818,-78.609658,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-70,70,Lock 70,Oldtown,166.7,166.7,39.539815,-78.613427,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-71,71,Lock 71,,167.0,167.0,39.541786,-78.618323,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-72,72,Lock 72,The Narrows / Ten Mile Lock,174.4,174.4,39.576123,-78.730887,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-73,73,Lock 73,North Branch 1,175.4,175.4,39.587907,-78.736863,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-74,74,Lock 74,North Branch 2,175.5,175.5,39.587873,-78.738747,,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-75,75,Lock 75,North Branch 3 / Keifers Lock,175.7,175.6,39.586476,-78.741911,Last lift lock on the canal.,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference

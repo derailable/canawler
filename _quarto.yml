@@ -1,0 +1,34 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - explore.qmd
+    - data.qmd
+    - about.qmd
+  resources:
+    - data/public/**
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "Canawler"
+  site-url: "https://canawler.com"
+  navbar:
+    left:
+      - href: explore.qmd
+        text: Explore
+      - href: data.qmd
+        text: Data
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/derailable/canawler
+        aria-label: GitHub
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    code-copy: true

@@ -1,0 +1,33 @@
+[project]
+name = "canawler"
+version = "0.1.0"
+description = "A structured, reproducible, source-aware dataset for the C&O Canal"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+dependencies = [
+    "pyproj>=3.7.2",
+    "shapely>=2.1.2",
+]
+
+[project.scripts]
+canawler = "canawler.build:main"
+
+[build-system]
+requires = ["uv_build>=0.11.7,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+    "ruff>=0.16.5",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

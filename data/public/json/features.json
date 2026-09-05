@@ -1,0 +1,2916 @@
+{
+  "features": [
+    {
+      "feature_type": "access_point",
+      "id": "access-georgetown-0-0",
+      "latitude": 38.904167,
+      "longitude": -77.060133,
+      "mile": 0.0,
+      "mile_end": 1.1,
+      "name": "Georgetown",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-thompson-boat-center-0-1",
+      "latitude": 38.904128,
+      "longitude": -77.058575,
+      "mile": 0.1,
+      "mile_end": null,
+      "name": "Thompson Boat Center",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-1",
+      "latitude": 38.904312,
+      "longitude": -77.062282,
+      "mile": 0.3,
+      "mile_end": null,
+      "name": "Lock 1",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-2",
+      "latitude": 38.904312,
+      "longitude": -77.062282,
+      "mile": 0.3,
+      "mile_end": null,
+      "name": "Lock 2",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-3",
+      "latitude": 38.904339,
+      "longitude": -77.06415,
+      "mile": 0.4,
+      "mile_end": null,
+      "name": "Lock 3",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-4",
+      "latitude": 38.904339,
+      "longitude": -77.06415,
+      "mile": 0.4,
+      "mile_end": null,
+      "name": "Lock 4",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-fletchers-cove-3-1",
+      "latitude": 38.918691,
+      "longitude": -77.102019,
+      "mile": 3.1,
+      "mile_end": null,
+      "name": "Fletchers Cove",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-fletchers-cove-3-1",
+      "latitude": 38.921734,
+      "longitude": -77.103655,
+      "mile": 3.1,
+      "mile_end": null,
+      "name": "Fletchers Cove",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-chain-bridge-4-0",
+      "latitude": 38.932841,
+      "longitude": -77.112844,
+      "mile": 4.0,
+      "mile_end": null,
+      "name": "Chain Bridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-brookmont-footbridge-5-0",
+      "latitude": 38.939982,
+      "longitude": -77.120157,
+      "mile": 5.0,
+      "mile_end": null,
+      "name": "Brookmont footbridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-5",
+      "latitude": 38.943533,
+      "longitude": -77.123622,
+      "mile": 5.0,
+      "mile_end": null,
+      "name": "Lock 5",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-6-5-4",
+      "latitude": 38.944737,
+      "longitude": -77.123348,
+      "mile": 5.4,
+      "mile_end": null,
+      "name": "Lock 6",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-valley-road-brookmont-5-4",
+      "latitude": 38.94546,
+      "longitude": -77.122672,
+      "mile": 5.4,
+      "mile_end": null,
+      "name": "Valley Road (Brookmont)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-6",
+      "latitude": 38.948796,
+      "longitude": -77.126374,
+      "mile": 5.4,
+      "mile_end": null,
+      "name": "Lock 6",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-sycamore-island-6-4",
+      "latitude": 38.95832,
+      "longitude": -77.131465,
+      "mile": 6.4,
+      "mile_end": null,
+      "name": "Sycamore Island",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-walhonding-road-footbridge-6-4",
+      "latitude": 38.958303,
+      "longitude": -77.130849,
+      "mile": 6.4,
+      "mile_end": null,
+      "name": "Walhonding Road footbridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-sycamore-island-6-5",
+      "latitude": 38.962255,
+      "longitude": -77.136485,
+      "mile": 6.5,
+      "mile_end": null,
+      "name": "Sycamore Island",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-7-7-0",
+      "latitude": 38.964611,
+      "longitude": -77.138363,
+      "mile": 7.0,
+      "mile_end": null,
+      "name": "Lock 7",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-7",
+      "latitude": 38.967531,
+      "longitude": -77.14273,
+      "mile": 7.0,
+      "mile_end": null,
+      "name": "Lock 7",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-cabin-john-aqueduct-7-7",
+      "latitude": 38.972854,
+      "longitude": -77.147357,
+      "mile": 7.7,
+      "mile_end": null,
+      "name": "Cabin John Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-8-8-3",
+      "latitude": 38.971559,
+      "longitude": -77.160636,
+      "mile": 8.3,
+      "mile_end": null,
+      "name": "Lock 8",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-riverside-drive-8-3",
+      "latitude": 38.97208,
+      "longitude": -77.1621,
+      "mile": 8.3,
+      "mile_end": null,
+      "name": "Riverside Drive",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-8",
+      "latitude": 38.971948,
+      "longitude": -77.165281,
+      "mile": 8.3,
+      "mile_end": null,
+      "name": "Lock 8",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-9",
+      "latitude": 38.972338,
+      "longitude": -77.17271,
+      "mile": 8.7,
+      "mile_end": null,
+      "name": "Lock 9",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-10-8-8",
+      "latitude": 38.972631,
+      "longitude": -77.169278,
+      "mile": 8.8,
+      "mile_end": null,
+      "name": "Lock 10",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-10",
+      "latitude": 38.972457,
+      "longitude": -77.174573,
+      "mile": 8.8,
+      "mile_end": null,
+      "name": "Lock 10",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-11",
+      "latitude": 38.972291,
+      "longitude": -77.17829,
+      "mile": 9.0,
+      "mile_end": null,
+      "name": "Lock 11",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-12",
+      "latitude": 38.971671,
+      "longitude": -77.183842,
+      "mile": 9.3,
+      "mile_end": null,
+      "name": "Lock 12",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-13",
+      "latitude": 38.971454,
+      "longitude": -77.185691,
+      "mile": 9.4,
+      "mile_end": null,
+      "name": "Lock 13",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-14",
+      "latitude": 38.971243,
+      "longitude": -77.187541,
+      "mile": 9.5,
+      "mile_end": null,
+      "name": "Lock 14",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-carderock-10-4",
+      "latitude": 38.97456,
+      "longitude": -77.201968,
+      "mile": 10.4,
+      "mile_end": 10.8,
+      "name": "Carderock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-carderock-10-5",
+      "latitude": 38.976248,
+      "longitude": -77.204008,
+      "mile": 10.5,
+      "mile_end": null,
+      "name": "Carderock",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-marsden-tract-11-4",
+      "latitude": 38.978697,
+      "longitude": -77.215888,
+      "mile": 11.4,
+      "mile_end": null,
+      "name": "Marsden Tract",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-marsden-tract-11-5",
+      "latitude": 38.977266,
+      "longitude": -77.221558,
+      "mile": 11.5,
+      "mile_end": null,
+      "name": "Marsden Tract",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-old-angler-s-inn-12-2",
+      "latitude": 38.981897,
+      "longitude": -77.226205,
+      "mile": 12.2,
+      "mile_end": null,
+      "name": "Old Angler's Inn",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-anglers-access-12-2",
+      "latitude": 38.982828,
+      "longitude": -77.231477,
+      "mile": 12.2,
+      "mile_end": null,
+      "name": "Anglers Access",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-15",
+      "latitude": 38.995503,
+      "longitude": -77.247152,
+      "mile": 13.6,
+      "mile_end": null,
+      "name": "Lock 15",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-16",
+      "latitude": 38.996591,
+      "longitude": -77.248345,
+      "mile": 13.7,
+      "mile_end": null,
+      "name": "Lock 16",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-17",
+      "latitude": 39.00219,
+      "longitude": -77.247714,
+      "mile": 14.1,
+      "mile_end": null,
+      "name": "Lock 17",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-18",
+      "latitude": 39.003489,
+      "longitude": -77.246929,
+      "mile": 14.2,
+      "mile_end": null,
+      "name": "Lock 18",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-great-falls-14-3",
+      "latitude": 39.001748,
+      "longitude": -77.246836,
+      "mile": 14.3,
+      "mile_end": null,
+      "name": "Great Falls",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-19",
+      "latitude": 39.004788,
+      "longitude": -77.246142,
+      "mile": 14.3,
+      "mile_end": null,
+      "name": "Lock 19",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "visitor_center",
+      "id": "nps-great-falls-14-3",
+      "latitude": 39.004788,
+      "longitude": -77.246142,
+      "mile": 14.3,
+      "mile_end": null,
+      "name": "Great Falls",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-20",
+      "latitude": 39.006121,
+      "longitude": -77.245455,
+      "mile": 14.4,
+      "mile_end": null,
+      "name": "Lock 20",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-swains-lock-16-6",
+      "latitude": 39.031634,
+      "longitude": -77.243531,
+      "mile": 16.6,
+      "mile_end": null,
+      "name": "Swains Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-21",
+      "latitude": 39.034545,
+      "longitude": -77.248538,
+      "mile": 16.7,
+      "mile_end": null,
+      "name": "Lock 21",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-pennyfield-lock-19-6",
+      "latitude": 39.054972,
+      "longitude": -77.290334,
+      "mile": 19.6,
+      "mile_end": null,
+      "name": "Pennyfield Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-22",
+      "latitude": 39.055936,
+      "longitude": -77.292916,
+      "mile": 19.6,
+      "mile_end": null,
+      "name": "Lock 22",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-violettes-lock-22-1",
+      "latitude": 39.067226,
+      "longitude": -77.328483,
+      "mile": 22.1,
+      "mile_end": null,
+      "name": "Violettes Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-23",
+      "latitude": 39.068232,
+      "longitude": -77.333591,
+      "mile": 22.1,
+      "mile_end": null,
+      "name": "Lock 23",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-rileys-lock-22-8",
+      "latitude": 39.069167,
+      "longitude": -77.340877,
+      "mile": 22.8,
+      "mile_end": null,
+      "name": "Rileys Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-24",
+      "latitude": 39.068286,
+      "longitude": -77.346606,
+      "mile": 22.8,
+      "mile_end": null,
+      "name": "Lock 24",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "nps-seneca-rileys-lock-22-8",
+      "latitude": 39.068286,
+      "longitude": -77.346606,
+      "mile": 22.8,
+      "mile_end": null,
+      "name": "Seneca (Rileys Lock)",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-horsepen-branch-26-1",
+      "latitude": 39.070955,
+      "longitude": -77.407783,
+      "mile": 26.1,
+      "mile_end": null,
+      "name": "Horsepen Branch",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-sycamore-landing-27-2",
+      "latitude": 39.074731,
+      "longitude": -77.420193,
+      "mile": 27.2,
+      "mile_end": null,
+      "name": "Sycamore Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-sycamore-landing-27-2",
+      "latitude": 39.075666,
+      "longitude": -77.42733,
+      "mile": 27.2,
+      "mile_end": null,
+      "name": "Sycamore Landing",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-chisel-branch-30-5",
+      "latitude": 39.103718,
+      "longitude": -77.47244,
+      "mile": 30.5,
+      "mile_end": null,
+      "name": "Chisel Branch",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-edwards-ferry-30-8",
+      "latitude": 39.103463,
+      "longitude": -77.472933,
+      "mile": 30.8,
+      "mile_end": null,
+      "name": "Edwards Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "canal_quarters",
+      "id": "nps-edwards-ferry-30-8",
+      "latitude": 39.107701,
+      "longitude": -77.474461,
+      "mile": 30.8,
+      "mile_end": null,
+      "name": "Edwards Ferry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-25",
+      "latitude": 39.107701,
+      "longitude": -77.474461,
+      "mile": 30.8,
+      "mile_end": null,
+      "name": "Lock 25",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-turtle-run-34-4",
+      "latitude": 39.140468,
+      "longitude": -77.515859,
+      "mile": 34.4,
+      "mile_end": null,
+      "name": "Turtle Run",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-whites-ferry-35-5",
+      "latitude": 39.154861,
+      "longitude": -77.518206,
+      "mile": 35.5,
+      "mile_end": null,
+      "name": "Whites Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-whites-ferry-35-5",
+      "latitude": 39.155967,
+      "longitude": -77.517122,
+      "mile": 35.5,
+      "mile_end": null,
+      "name": "Whites Ferry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-marble-quarry-38-2",
+      "latitude": 39.181872,
+      "longitude": -77.485457,
+      "mile": 38.2,
+      "mile_end": null,
+      "name": "Marble Quarry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-26",
+      "latitude": 39.193486,
+      "longitude": -77.470144,
+      "mile": 39.4,
+      "mile_end": null,
+      "name": "Lock 26",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-dickerson-conservation-park-39-6",
+      "latitude": 39.194685,
+      "longitude": -77.469402,
+      "mile": 39.6,
+      "mile_end": null,
+      "name": "Dickerson Conservation Park",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-27",
+      "latitude": 39.218818,
+      "longitude": -77.454126,
+      "mile": 41.5,
+      "mile_end": null,
+      "name": "Lock 27",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-monocacy-aqueduct-42-1",
+      "latitude": 39.222563,
+      "longitude": -77.449987,
+      "mile": 42.1,
+      "mile_end": null,
+      "name": "Monocacy Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "aqueduct",
+      "id": "nps-monocacy-aqueduct-42-2",
+      "latitude": 39.227429,
+      "longitude": -77.45473,
+      "mile": 42.2,
+      "mile_end": null,
+      "name": "Monocacy Aqueduct",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-indian-flats-42-5",
+      "latitude": 39.23083,
+      "longitude": -77.458139,
+      "mile": 42.5,
+      "mile_end": null,
+      "name": "Indian Flats",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-nolands-ferry-44-6",
+      "latitude": 39.249948,
+      "longitude": -77.482726,
+      "mile": 44.6,
+      "mile_end": null,
+      "name": "Nolands Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-nolands-ferry-44-6",
+      "latitude": 39.252415,
+      "longitude": -77.485425,
+      "mile": 44.6,
+      "mile_end": null,
+      "name": "Nolands Ferry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-calico-rocks-47-6",
+      "latitude": 39.27256,
+      "longitude": -77.533248,
+      "mile": 47.6,
+      "mile_end": null,
+      "name": "Calico Rocks",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-point-of-rocks-48-2",
+      "latitude": 39.273218,
+      "longitude": -77.540045,
+      "mile": 48.2,
+      "mile_end": null,
+      "name": "Point of Rocks",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "canal_quarters",
+      "id": "nps-point-of-rocks-48-2",
+      "latitude": 39.274382,
+      "longitude": -77.544101,
+      "mile": 48.2,
+      "mile_end": null,
+      "name": "Point of Rocks",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-28",
+      "latitude": 39.283511,
+      "longitude": -77.549342,
+      "mile": 48.9,
+      "mile_end": null,
+      "name": "Lock 28",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-bald-eagle-island-50-3",
+      "latitude": 39.301381,
+      "longitude": -77.556463,
+      "mile": 50.3,
+      "mile_end": null,
+      "name": "Bald Eagle Island",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-29",
+      "latitude": 39.307897,
+      "longitude": -77.559807,
+      "mile": 50.8,
+      "mile_end": null,
+      "name": "Lock 29",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lander-50-9",
+      "latitude": 39.306507,
+      "longitude": -77.558006,
+      "mile": 50.9,
+      "mile_end": null,
+      "name": "Lander",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-brunswick-55-0",
+      "latitude": 39.31122,
+      "longitude": -77.630749,
+      "mile": 55.0,
+      "mile_end": null,
+      "name": "Brunswick",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-30",
+      "latitude": 39.31242,
+      "longitude": -77.634638,
+      "mile": 55.0,
+      "mile_end": null,
+      "name": "Lock 30",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "visitor_center",
+      "id": "nps-brunswick-55-0",
+      "latitude": 39.31242,
+      "longitude": -77.634638,
+      "mile": 55.0,
+      "mile_end": null,
+      "name": "Brunswick",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-weverton-58-0",
+      "latitude": 39.329916,
+      "longitude": -77.681966,
+      "mile": 58.0,
+      "mile_end": null,
+      "name": "Weverton",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-31",
+      "latitude": 39.328068,
+      "longitude": -77.683948,
+      "mile": 58.0,
+      "mile_end": null,
+      "name": "Lock 31",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-32",
+      "latitude": 39.323567,
+      "longitude": -77.72272,
+      "mile": 60.2,
+      "mile_end": null,
+      "name": "Lock 32",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-33",
+      "latitude": 39.327557,
+      "longitude": -77.729463,
+      "mile": 60.7,
+      "mile_end": null,
+      "name": "Lock 33",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-maryland-heights-61-3",
+      "latitude": 39.329395,
+      "longitude": -77.731919,
+      "mile": 61.3,
+      "mile_end": null,
+      "name": "Maryland Heights",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-34",
+      "latitude": 39.334099,
+      "longitude": -77.741529,
+      "mile": 61.5,
+      "mile_end": null,
+      "name": "Lock 34",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-34-61-6",
+      "latitude": 39.33343,
+      "longitude": -77.738577,
+      "mile": 61.6,
+      "mile_end": null,
+      "name": "Lock 34",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-huckleberry-hill-62-0",
+      "latitude": 39.336603,
+      "longitude": -77.75009,
+      "mile": 62.0,
+      "mile_end": null,
+      "name": "Huckleberry Hill",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-35",
+      "latitude": 39.337156,
+      "longitude": -77.754509,
+      "mile": 62.3,
+      "mile_end": null,
+      "name": "Lock 35",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-36",
+      "latitude": 39.339316,
+      "longitude": -77.756845,
+      "mile": 62.5,
+      "mile_end": null,
+      "name": "Lock 36",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-dargan-bend-64-9",
+      "latitude": 39.364182,
+      "longitude": -77.740073,
+      "mile": 64.9,
+      "mile_end": null,
+      "name": "Dargan Bend",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-dargan-bend-64-9",
+      "latitude": 39.367567,
+      "longitude": -77.741581,
+      "mile": 64.9,
+      "mile_end": null,
+      "name": "Dargan Bend",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-37",
+      "latitude": 39.386103,
+      "longitude": -77.733989,
+      "mile": 66.9,
+      "mile_end": null,
+      "name": "Lock 37",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-mountain-lock-67-0",
+      "latitude": 39.385295,
+      "longitude": -77.734451,
+      "mile": 67.0,
+      "mile_end": null,
+      "name": "Mountain Lock",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-antietam-69-5",
+      "latitude": 39.419001,
+      "longitude": -77.74657,
+      "mile": 69.5,
+      "mile_end": null,
+      "name": "Antietam",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-antietam-creek-69-6",
+      "latitude": 39.421685,
+      "longitude": -77.749059,
+      "mile": 69.6,
+      "mile_end": null,
+      "name": "Antietam Creek",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-railroad-bridge-shepherdstown-72-4",
+      "latitude": 39.433927,
+      "longitude": -77.795512,
+      "mile": 72.4,
+      "mile_end": null,
+      "name": "Railroad bridge (Shepherdstown)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-38",
+      "latitude": 39.436923,
+      "longitude": -77.800382,
+      "mile": 72.7,
+      "mile_end": null,
+      "name": "Lock 38",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-38-shepherdstown-72-8",
+      "latitude": 39.436456,
+      "longitude": -77.799527,
+      "mile": 72.8,
+      "mile_end": null,
+      "name": "Lock 38 (Shepherdstown)",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-ferry-hill-72-8",
+      "latitude": 39.438311,
+      "longitude": -77.800383,
+      "mile": 72.8,
+      "mile_end": null,
+      "name": "Ferry Hill",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-39",
+      "latitude": 39.446563,
+      "longitude": -77.782969,
+      "mile": 74.0,
+      "mile_end": null,
+      "name": "Lock 39",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-killiansburg-cave-75-2",
+      "latitude": 39.459017,
+      "longitude": -77.796743,
+      "mile": 75.2,
+      "mile_end": null,
+      "name": "Killiansburg Cave",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-snyders-landing-76-6",
+      "latitude": 39.463713,
+      "longitude": -77.776086,
+      "mile": 76.6,
+      "mile_end": null,
+      "name": "Snyders Landing",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-snyders-landing-76-7",
+      "latitude": 39.46527,
+      "longitude": -77.777313,
+      "mile": 76.7,
+      "mile_end": null,
+      "name": "Snyders Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-horseshoe-bend-79-2",
+      "latitude": 39.485611,
+      "longitude": -77.780687,
+      "mile": 79.2,
+      "mile_end": null,
+      "name": "Horseshoe Bend",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-40",
+      "latitude": 39.486323,
+      "longitude": -77.777038,
+      "mile": 79.4,
+      "mile_end": null,
+      "name": "Lock 40",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-taylors-landing-80-9",
+      "latitude": 39.499898,
+      "longitude": -77.769066,
+      "mile": 80.9,
+      "mile_end": null,
+      "name": "Taylors Landing",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-taylors-landing-81-0",
+      "latitude": 39.499645,
+      "longitude": -77.767866,
+      "mile": 81.0,
+      "mile_end": null,
+      "name": "Taylors Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-big-woods-82-7",
+      "latitude": 39.491757,
+      "longitude": -77.797918,
+      "mile": 82.7,
+      "mile_end": null,
+      "name": "Big Woods",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-dam-no-4-84-4",
+      "latitude": 39.496001,
+      "longitude": -77.826266,
+      "mile": 84.4,
+      "mile_end": null,
+      "name": "Dam No. 4",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "dam",
+      "id": "nps-dam-4-84-4",
+      "latitude": 39.495682,
+      "longitude": -77.828942,
+      "mile": 84.4,
+      "mile_end": null,
+      "name": "Dam 4",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-big-slackwater-boat-ramp-85-4",
+      "latitude": 39.501346,
+      "longitude": -77.845385,
+      "mile": 85.4,
+      "mile_end": null,
+      "name": "Big Slackwater Boat Ramp",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-big-slackwater-85-5",
+      "latitude": 39.503003,
+      "longitude": -77.845234,
+      "mile": 85.5,
+      "mile_end": null,
+      "name": "Big Slackwater",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-mcmahons-mill-88-1",
+      "latitude": 39.530654,
+      "longitude": -77.823522,
+      "mile": 88.1,
+      "mile_end": null,
+      "name": "McMahons Mill",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-mcmahons-mill-88-1",
+      "latitude": 39.531205,
+      "longitude": -77.825732,
+      "mile": 88.1,
+      "mile_end": null,
+      "name": "McMahons Mill",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-41",
+      "latitude": 39.532456,
+      "longitude": -77.839459,
+      "mile": 88.9,
+      "mile_end": null,
+      "name": "Lock 41",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-42",
+      "latitude": 39.531319,
+      "longitude": -77.840599,
+      "mile": 89.0,
+      "mile_end": null,
+      "name": "Lock 42",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-spring-dell-road-89-1",
+      "latitude": 39.530309,
+      "longitude": -77.844116,
+      "mile": 89.1,
+      "mile_end": null,
+      "name": "Spring Dell Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "railroad_junction",
+      "id": "nps-opequon-junction-90-9",
+      "latitude": 39.516661,
+      "longitude": -77.862118,
+      "mile": 90.9,
+      "mile_end": null,
+      "name": "Opequon Junction",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-43",
+      "latitude": 39.543371,
+      "longitude": -77.867558,
+      "mile": 92.9,
+      "mile_end": null,
+      "name": "Lock 43",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-cumberland-valley-95-2",
+      "latitude": 39.561766,
+      "longitude": -77.869969,
+      "mile": 95.2,
+      "mile_end": null,
+      "name": "Cumberland Valley",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-44",
+      "latitude": 39.592623,
+      "longitude": -77.825474,
+      "mile": 99.1,
+      "mile_end": null,
+      "name": "Lock 44",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-44-99-3",
+      "latitude": 39.595037,
+      "longitude": -77.824712,
+      "mile": 99.3,
+      "mile_end": null,
+      "name": "Lock 44",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-williamsport-visitor-center-99-8",
+      "latitude": 39.600996,
+      "longitude": -77.826927,
+      "mile": 99.8,
+      "mile_end": null,
+      "name": "Williamsport Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "visitor_center",
+      "id": "nps-cushwa-basin-williamsport-99-8",
+      "latitude": 39.602083,
+      "longitude": -77.828702,
+      "mile": 99.8,
+      "mile_end": null,
+      "name": "Cushwa Basin (Williamsport)",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "railroad_junction",
+      "id": "nps-jordan-junction-101-2",
+      "latitude": 39.609492,
+      "longitude": -77.85102,
+      "mile": 101.2,
+      "mile_end": null,
+      "name": "Jordan Junction",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-gift-road-103-3",
+      "latitude": 39.616863,
+      "longitude": -77.888503,
+      "mile": 103.3,
+      "mile_end": null,
+      "name": "Gift Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-dam-no-5-road-106-2",
+      "latitude": 39.604678,
+      "longitude": -77.911877,
+      "mile": 106.2,
+      "mile_end": null,
+      "name": "Dam No. 5 Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-dam-no-5-106-8",
+      "latitude": 39.607079,
+      "longitude": -77.921117,
+      "mile": 106.8,
+      "mile_end": null,
+      "name": "Dam No. 5",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "dam",
+      "id": "nps-dam-5-106-8",
+      "latitude": 39.608012,
+      "longitude": -77.922882,
+      "mile": 106.8,
+      "mile_end": null,
+      "name": "Dam 5",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-45",
+      "latitude": 39.610333,
+      "longitude": -77.92506,
+      "mile": 107.0,
+      "mile_end": null,
+      "name": "Lock 45",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-46",
+      "latitude": 39.613054,
+      "longitude": -77.925573,
+      "mile": 107.2,
+      "mile_end": null,
+      "name": "Lock 46",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-46-107-4",
+      "latitude": 39.615866,
+      "longitude": -77.926626,
+      "mile": 107.4,
+      "mile_end": null,
+      "name": "Lock 46",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-47",
+      "latitude": 39.616916,
+      "longitude": -77.946986,
+      "mile": 108.7,
+      "mile_end": null,
+      "name": "Lock 47",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-four-locks-108-8",
+      "latitude": 39.615311,
+      "longitude": -77.947494,
+      "mile": 108.8,
+      "mile_end": null,
+      "name": "Four Locks",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-48",
+      "latitude": 39.615704,
+      "longitude": -77.947982,
+      "mile": 108.8,
+      "mile_end": null,
+      "name": "Lock 48",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-49",
+      "latitude": 39.614369,
+      "longitude": -77.948654,
+      "mile": 108.9,
+      "mile_end": null,
+      "name": "Lock 49",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "nps-four-locks-109-0",
+      "latitude": 39.613005,
+      "longitude": -77.949229,
+      "mile": 109.0,
+      "mile_end": null,
+      "name": "Four Locks",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-50",
+      "latitude": 39.613005,
+      "longitude": -77.949229,
+      "mile": 109.0,
+      "mile_end": null,
+      "name": "Lock 50",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-north-mountain-110-0",
+      "latitude": 39.61052,
+      "longitude": -77.963543,
+      "mile": 110.0,
+      "mile_end": null,
+      "name": "North Mountain",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-mccoys-ferry-110-4",
+      "latitude": 39.609261,
+      "longitude": -77.970065,
+      "mile": 110.4,
+      "mile_end": null,
+      "name": "McCoys Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-mccoys-ferry-110-4",
+      "latitude": 39.608148,
+      "longitude": -77.970382,
+      "mile": 110.4,
+      "mile_end": null,
+      "name": "McCoys Ferry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-fort-frederick-112-4",
+      "latitude": 39.605391,
+      "longitude": -78.005041,
+      "mile": 112.4,
+      "mile_end": null,
+      "name": "Fort Frederick",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-fort-frederick-state-park-112-4",
+      "latitude": 39.605593,
+      "longitude": -78.005485,
+      "mile": 112.4,
+      "mile_end": null,
+      "name": "Fort Frederick State Park",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-big-pool-113-8",
+      "latitude": 39.622391,
+      "longitude": -78.019031,
+      "mile": 113.8,
+      "mile_end": null,
+      "name": "Big Pool",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-ernstville-road-114-5",
+      "latitude": 39.63297,
+      "longitude": -78.028951,
+      "mile": 114.5,
+      "mile_end": null,
+      "name": "Ernstville Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-licking-creek-116-0",
+      "latitude": 39.646154,
+      "longitude": -78.045378,
+      "mile": 116.0,
+      "mile_end": null,
+      "name": "Licking Creek",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-licking-creek-116-3",
+      "latitude": 39.655987,
+      "longitude": -78.053946,
+      "mile": 116.3,
+      "mile_end": null,
+      "name": "Licking Creek",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-little-pool-119-6",
+      "latitude": 39.68443,
+      "longitude": -78.103796,
+      "mile": 119.6,
+      "mile_end": null,
+      "name": "Little Pool",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-51",
+      "latitude": 39.692982,
+      "longitude": -78.150004,
+      "mile": 122.7,
+      "mile_end": null,
+      "name": "Lock 51",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-hancock-visitor-center-122-8",
+      "latitude": 39.694227,
+      "longitude": -78.154046,
+      "mile": 122.8,
+      "mile_end": null,
+      "name": "Hancock Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-52",
+      "latitude": 39.69346,
+      "longitude": -78.153723,
+      "mile": 122.9,
+      "mile_end": null,
+      "name": "Lock 52",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-hancock-124-1",
+      "latitude": 39.698253,
+      "longitude": -78.181036,
+      "mile": 124.1,
+      "mile_end": null,
+      "name": "Hancock",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "boat_access",
+      "id": "nps-little-tonoloway-hancock-124-5",
+      "latitude": 39.697873,
+      "longitude": -78.183078,
+      "mile": 124.5,
+      "mile_end": null,
+      "name": "Little Tonoloway (Hancock)",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-berm-road-125-6",
+      "latitude": 39.683618,
+      "longitude": -78.199002,
+      "mile": 125.6,
+      "mile_end": null,
+      "name": "Berm Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-white-rock-126-4",
+      "latitude": 39.678539,
+      "longitude": -78.206563,
+      "mile": 126.4,
+      "mile_end": null,
+      "name": "White Rock",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-little-pool-126-6",
+      "latitude": 39.677996,
+      "longitude": -78.210251,
+      "mile": 126.6,
+      "mile_end": null,
+      "name": "Little Pool",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-leopards-mill-129-9",
+      "latitude": 39.653048,
+      "longitude": -78.238459,
+      "mile": 129.9,
+      "mile_end": null,
+      "name": "Leopards Mill",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-53",
+      "latitude": 39.651246,
+      "longitude": -78.241386,
+      "mile": 130.1,
+      "mile_end": null,
+      "name": "Lock 53",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-cohill-station-130-7",
+      "latitude": 39.645446,
+      "longitude": -78.251711,
+      "mile": 130.7,
+      "mile_end": null,
+      "name": "Cohill Station",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "railroad_station",
+      "id": "nps-cohill-station-130-7",
+      "latitude": 39.645798,
+      "longitude": -78.250115,
+      "mile": 130.7,
+      "mile_end": null,
+      "name": "Cohill Station",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-cacapon-juntion-133-6",
+      "latitude": 39.621978,
+      "longitude": -78.282096,
+      "mile": 133.6,
+      "mile_end": null,
+      "name": "Cacapon Juntion",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-pearre-road-dam-6-134-0",
+      "latitude": 39.628174,
+      "longitude": -78.298256,
+      "mile": 134.0,
+      "mile_end": null,
+      "name": "Pearre Road, Dam #6",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-54",
+      "latitude": 39.623685,
+      "longitude": -78.289192,
+      "mile": 134.0,
+      "mile_end": null,
+      "name": "Lock 54",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-55",
+      "latitude": 39.625375,
+      "longitude": -78.292234,
+      "mile": 134.2,
+      "mile_end": null,
+      "name": "Lock 55",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-wmrt-pearre-parking-lot-135-9",
+      "latitude": 39.63648,
+      "longitude": -78.323262,
+      "mile": 135.9,
+      "mile_end": null,
+      "name": "WMRT Pearre parking lot",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-56-pearre-136-2",
+      "latitude": 39.637868,
+      "longitude": -78.328302,
+      "mile": 136.2,
+      "mile_end": null,
+      "name": "Lock 56 (Pearre)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-56",
+      "latitude": 39.636717,
+      "longitude": -78.326765,
+      "mile": 136.2,
+      "mile_end": null,
+      "name": "Lock 56",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-indigo-neck-139-2",
+      "latitude": 39.627074,
+      "longitude": -78.359089,
+      "mile": 139.2,
+      "mile_end": null,
+      "name": "Indigo Neck",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-57",
+      "latitude": 39.627721,
+      "longitude": -78.362741,
+      "mile": 139.4,
+      "mile_end": null,
+      "name": "Lock 57",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-little-orleans-140-8",
+      "latitude": 39.625648,
+      "longitude": -78.385868,
+      "mile": 140.8,
+      "mile_end": null,
+      "name": "Little Orleans",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-fifteenmile-creek-140-9",
+      "latitude": 39.625693,
+      "longitude": -78.386301,
+      "mile": 140.9,
+      "mile_end": null,
+      "name": "Fifteenmile Creek",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-58",
+      "latitude": 39.620124,
+      "longitude": -78.404766,
+      "mile": 144.0,
+      "mile_end": null,
+      "name": "Lock 58",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-devils-alley-144-5",
+      "latitude": 39.62283,
+      "longitude": -78.413478,
+      "mile": 144.5,
+      "mile_end": null,
+      "name": "Devils Alley",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-59",
+      "latitude": 39.611125,
+      "longitude": -78.43243,
+      "mile": 146.5,
+      "mile_end": null,
+      "name": "Lock 59",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-kasecamp-road-147-1",
+      "latitude": 39.603639,
+      "longitude": -78.42582,
+      "mile": 147.1,
+      "mile_end": null,
+      "name": "Kasecamp Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-stickpile-hill-149-4",
+      "latitude": 39.582727,
+      "longitude": -78.399293,
+      "mile": 149.4,
+      "mile_end": null,
+      "name": "Stickpile Hill",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-60",
+      "latitude": 39.582287,
+      "longitude": -78.402933,
+      "mile": 149.6,
+      "mile_end": null,
+      "name": "Lock 60",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-bonds-landing-150-1",
+      "latitude": 39.582848,
+      "longitude": -78.411246,
+      "mile": 150.1,
+      "mile_end": null,
+      "name": "Bonds Landing",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-roby-hollow-151-2",
+      "latitude": 39.590113,
+      "longitude": -78.429294,
+      "mile": 151.2,
+      "mile_end": null,
+      "name": "Roby Hollow",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-61",
+      "latitude": 39.583308,
+      "longitude": -78.459972,
+      "mile": 153.1,
+      "mile_end": null,
+      "name": "Lock 61",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-twigg-hollow-153-3",
+      "latitude": 39.58128,
+      "longitude": -78.46154,
+      "mile": 153.3,
+      "mile_end": null,
+      "name": "Twigg Hollow",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-sorrel-ridge-154-1",
+      "latitude": 39.570954,
+      "longitude": -78.452925,
+      "mile": 154.1,
+      "mile_end": null,
+      "name": "Sorrel Ridge",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-62",
+      "latitude": 39.570954,
+      "longitude": -78.452925,
+      "mile": 154.1,
+      "mile_end": null,
+      "name": "Lock 62",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-63-1-3",
+      "latitude": 39.566306,
+      "longitude": -78.454759,
+      "mile": 154.5,
+      "mile_end": null,
+      "name": "Lock 63 1/3",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-64-2-3",
+      "latitude": 39.565278,
+      "longitude": -78.456065,
+      "mile": 154.6,
+      "mile_end": null,
+      "name": "Lock 64 2/3",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-66",
+      "latitude": 39.564317,
+      "longitude": -78.457462,
+      "mile": 154.7,
+      "mile_end": null,
+      "name": "Lock 66",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-paw-paw-156-1",
+      "latitude": 39.54547,
+      "longitude": -78.462511,
+      "mile": 156.1,
+      "mile_end": null,
+      "name": "Paw Paw",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-paw-paw-tunnel-156-2",
+      "latitude": 39.54445,
+      "longitude": -78.460806,
+      "mile": 156.2,
+      "mile_end": null,
+      "name": "Paw Paw Tunnel",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-purslane-run-156-9",
+      "latitude": 39.535606,
+      "longitude": -78.46445,
+      "mile": 156.9,
+      "mile_end": null,
+      "name": "Purslane Run",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-67",
+      "latitude": 39.525514,
+      "longitude": -78.533007,
+      "mile": 161.7,
+      "mile_end": null,
+      "name": "Lock 67",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-lock-67-161-9",
+      "latitude": 39.5256,
+      "longitude": -78.53626,
+      "mile": 161.9,
+      "mile_end": null,
+      "name": "Lock 67",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-town-creek-162-1",
+      "latitude": 39.524299,
+      "longitude": -78.540338,
+      "mile": 162.1,
+      "mile_end": null,
+      "name": "Town Creek",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-town-creek-aqueduct-162-3",
+      "latitude": 39.523862,
+      "longitude": -78.543122,
+      "mile": 162.3,
+      "mile_end": null,
+      "name": "Town Creek Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-potomac-forks-164-8",
+      "latitude": 39.530476,
+      "longitude": -78.588689,
+      "mile": 164.8,
+      "mile_end": null,
+      "name": "Potomac Forks",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-68",
+      "latitude": 39.530476,
+      "longitude": -78.588689,
+      "mile": 164.8,
+      "mile_end": null,
+      "name": "Lock 68",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-69",
+      "latitude": 39.539818,
+      "longitude": -78.609658,
+      "mile": 166.5,
+      "mile_end": null,
+      "name": "Lock 69",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-oldtown-lock-70-166-7",
+      "latitude": 39.540405,
+      "longitude": -78.611936,
+      "mile": 166.7,
+      "mile_end": null,
+      "name": "Oldtown (Lock 70)",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-70",
+      "latitude": 39.539815,
+      "longitude": -78.613427,
+      "mile": 166.7,
+      "mile_end": null,
+      "name": "Lock 70",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "recreation_location",
+      "id": "nps-oldtown-battie-mixon-166-7",
+      "latitude": 39.539815,
+      "longitude": -78.613427,
+      "mile": 166.7,
+      "mile_end": null,
+      "name": "Oldtown Battie Mixon",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-71",
+      "latitude": 39.541786,
+      "longitude": -78.618323,
+      "mile": 167.0,
+      "mile_end": null,
+      "name": "Lock 71",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-pigmans-ferry-169-1",
+      "latitude": 39.539143,
+      "longitude": -78.650873,
+      "mile": 169.1,
+      "mile_end": null,
+      "name": "Pigmans Ferry",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-spring-gap-173-3",
+      "latitude": 39.564306,
+      "longitude": -78.719289,
+      "mile": 173.3,
+      "mile_end": null,
+      "name": "Spring Gap",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-spring-gap-173-3",
+      "latitude": 39.56461,
+      "longitude": -78.719211,
+      "mile": 173.3,
+      "mile_end": null,
+      "name": "Spring Gap",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-72",
+      "latitude": 39.576123,
+      "longitude": -78.730887,
+      "mile": 174.4,
+      "mile_end": null,
+      "name": "Lock 72",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-irons-mountain-175-3",
+      "latitude": 39.587859,
+      "longitude": -78.734986,
+      "mile": 175.3,
+      "mile_end": null,
+      "name": "Irons Mountain",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-73",
+      "latitude": 39.587907,
+      "longitude": -78.736863,
+      "mile": 175.4,
+      "mile_end": null,
+      "name": "Lock 73",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-74",
+      "latitude": 39.587873,
+      "longitude": -78.738747,
+      "mile": 175.5,
+      "mile_end": null,
+      "name": "Lock 74",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-north-branch-175-6",
+      "latitude": 39.587698,
+      "longitude": -78.743462,
+      "mile": 175.6,
+      "mile_end": null,
+      "name": "North Branch",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "lock",
+      "id": "lock-75",
+      "latitude": 39.586476,
+      "longitude": -78.741911,
+      "mile": 175.7,
+      "mile_end": null,
+      "name": "Lock 75",
+      "source_ids": [
+        "nps_lift_locks",
+        "co_canal_trust_locks",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-river-road-176-4",
+      "latitude": 39.587303,
+      "longitude": -78.754629,
+      "mile": 176.4,
+      "mile_end": null,
+      "name": "River Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-mexico-farms-178-3",
+      "latitude": 39.599369,
+      "longitude": -78.750544,
+      "mile": 178.3,
+      "mile_end": null,
+      "name": "Mexico Farms",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-brehm-road-178-9",
+      "latitude": 39.603402,
+      "longitude": -78.741713,
+      "mile": 178.9,
+      "mile_end": null,
+      "name": "Brehm Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "campground",
+      "id": "nps-evitts-creek-180-1",
+      "latitude": 39.619127,
+      "longitude": -78.733404,
+      "mile": 180.1,
+      "mile_end": null,
+      "name": "Evitts Creek",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-candoc-recreation-area-181-8",
+      "latitude": 39.625274,
+      "longitude": -78.759307,
+      "mile": 181.8,
+      "mile_end": null,
+      "name": "Candoc Recreation Area",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-canal-parkway-182-6",
+      "latitude": 39.622741,
+      "longitude": -78.773223,
+      "mile": 182.6,
+      "mile_end": null,
+      "name": "Canal Parkway",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-elizabeth-street-183-1",
+      "latitude": 39.629393,
+      "longitude": -78.773132,
+      "mile": 183.1,
+      "mile_end": null,
+      "name": "Elizabeth Street",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "feature_type": "access_point",
+      "id": "access-cumberland-visitor-center-184-5",
+      "latitude": 39.649348,
+      "longitude": -78.7628,
+      "mile": 184.5,
+      "mile_end": null,
+      "name": "Cumberland Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "feature_type": "visitor_center",
+      "id": "nps-canal-terminus-cumberland-184-5",
+      "latitude": 39.648125,
+      "longitude": -78.763965,
+      "mile": 184.5,
+      "mile_end": null,
+      "name": "Canal Terminus (Cumberland)",
+      "source_ids": [
+        "nps_recreation_guide",
+        "nps_towpath_reference"
+      ]
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,222 @@
+id,name,feature_type,mile,mile_end,latitude,longitude,source_ids
+access-georgetown-0-0,Georgetown,access_point,0.0,1.1,38.904167,-77.060133,co_canal_association_access_points|nps_recreation_guide
+nps-thompson-boat-center-0-1,Thompson Boat Center,recreation_location,0.1,,38.904128,-77.058575,nps_recreation_guide|nps_towpath_reference
+lock-1,Lock 1,lock,0.3,,38.904312,-77.062282,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-2,Lock 2,lock,0.3,,38.904312,-77.062282,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-3,Lock 3,lock,0.4,,38.904339,-77.06415,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-4,Lock 4,lock,0.4,,38.904339,-77.06415,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-fletchers-cove-3-1,Fletchers Cove,access_point,3.1,,38.918691,-77.102019,co_canal_association_access_points|nps_recreation_guide
+nps-fletchers-cove-3-1,Fletchers Cove,recreation_location,3.1,,38.921734,-77.103655,nps_recreation_guide|nps_towpath_reference
+access-chain-bridge-4-0,Chain Bridge,access_point,4.0,,38.932841,-77.112844,co_canal_association_access_points
+access-brookmont-footbridge-5-0,Brookmont footbridge,access_point,5.0,,38.939982,-77.120157,co_canal_association_access_points
+lock-5,Lock 5,lock,5.0,,38.943533,-77.123622,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-6-5-4,Lock 6,access_point,5.4,,38.944737,-77.123348,co_canal_association_access_points|nps_recreation_guide
+access-valley-road-brookmont-5-4,Valley Road (Brookmont),access_point,5.4,,38.94546,-77.122672,co_canal_association_access_points
+lock-6,Lock 6,lock,5.4,,38.948796,-77.126374,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-sycamore-island-6-4,Sycamore Island,access_point,6.4,,38.95832,-77.131465,co_canal_association_access_points|nps_recreation_guide
+access-walhonding-road-footbridge-6-4,Walhonding Road footbridge,access_point,6.4,,38.958303,-77.130849,co_canal_association_access_points
+nps-sycamore-island-6-5,Sycamore Island,recreation_location,6.5,,38.962255,-77.136485,nps_recreation_guide|nps_towpath_reference
+access-lock-7-7-0,Lock 7,access_point,7.0,,38.964611,-77.138363,co_canal_association_access_points|nps_recreation_guide
+lock-7,Lock 7,lock,7.0,,38.967531,-77.14273,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-cabin-john-aqueduct-7-7,Cabin John Aqueduct,access_point,7.7,,38.972854,-77.147357,co_canal_association_access_points
+access-lock-8-8-3,Lock 8,access_point,8.3,,38.971559,-77.160636,co_canal_association_access_points|nps_recreation_guide
+access-riverside-drive-8-3,Riverside Drive,access_point,8.3,,38.97208,-77.1621,co_canal_association_access_points
+lock-8,Lock 8,lock,8.3,,38.971948,-77.165281,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-9,Lock 9,lock,8.7,,38.972338,-77.17271,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-10-8-8,Lock 10,access_point,8.8,,38.972631,-77.169278,co_canal_association_access_points|nps_recreation_guide
+lock-10,Lock 10,lock,8.8,,38.972457,-77.174573,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-11,Lock 11,lock,9.0,,38.972291,-77.17829,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-12,Lock 12,lock,9.3,,38.971671,-77.183842,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-13,Lock 13,lock,9.4,,38.971454,-77.185691,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-14,Lock 14,lock,9.5,,38.971243,-77.187541,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-carderock-10-4,Carderock,access_point,10.4,10.8,38.97456,-77.201968,co_canal_association_access_points|nps_recreation_guide
+nps-carderock-10-5,Carderock,recreation_location,10.5,,38.976248,-77.204008,nps_recreation_guide|nps_towpath_reference
+access-marsden-tract-11-4,Marsden Tract,access_point,11.4,,38.978697,-77.215888,co_canal_association_access_points|nps_recreation_guide
+nps-marsden-tract-11-5,Marsden Tract,campground,11.5,,38.977266,-77.221558,nps_recreation_guide|nps_towpath_reference
+access-old-angler-s-inn-12-2,Old Angler's Inn,access_point,12.2,,38.981897,-77.226205,co_canal_association_access_points|nps_recreation_guide
+nps-anglers-access-12-2,Anglers Access,boat_access,12.2,,38.982828,-77.231477,nps_recreation_guide|nps_towpath_reference
+lock-15,Lock 15,lock,13.6,,38.995503,-77.247152,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-16,Lock 16,lock,13.7,,38.996591,-77.248345,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-17,Lock 17,lock,14.1,,39.00219,-77.247714,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-18,Lock 18,lock,14.2,,39.003489,-77.246929,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-great-falls-14-3,Great Falls,access_point,14.3,,39.001748,-77.246836,co_canal_association_access_points|nps_recreation_guide
+lock-19,Lock 19,lock,14.3,,39.004788,-77.246142,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-great-falls-14-3,Great Falls,visitor_center,14.3,,39.004788,-77.246142,nps_recreation_guide|nps_towpath_reference
+lock-20,Lock 20,lock,14.4,,39.006121,-77.245455,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-swains-lock-16-6,Swains Lock,access_point,16.6,,39.031634,-77.243531,co_canal_association_access_points|nps_recreation_guide
+lock-21,Lock 21,lock,16.7,,39.034545,-77.248538,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-pennyfield-lock-19-6,Pennyfield Lock,access_point,19.6,,39.054972,-77.290334,co_canal_association_access_points|nps_recreation_guide
+lock-22,Lock 22,lock,19.6,,39.055936,-77.292916,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-violettes-lock-22-1,Violettes Lock,access_point,22.1,,39.067226,-77.328483,co_canal_association_access_points|nps_recreation_guide
+lock-23,Lock 23,lock,22.1,,39.068232,-77.333591,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-rileys-lock-22-8,Rileys Lock,access_point,22.8,,39.069167,-77.340877,co_canal_association_access_points|nps_recreation_guide
+lock-24,Lock 24,lock,22.8,,39.068286,-77.346606,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-seneca-rileys-lock-22-8,Seneca (Rileys Lock),lock,22.8,,39.068286,-77.346606,nps_recreation_guide|nps_towpath_reference
+nps-horsepen-branch-26-1,Horsepen Branch,campground,26.1,,39.070955,-77.407783,nps_recreation_guide|nps_towpath_reference
+access-sycamore-landing-27-2,Sycamore Landing,access_point,27.2,,39.074731,-77.420193,co_canal_association_access_points|nps_recreation_guide
+nps-sycamore-landing-27-2,Sycamore Landing,boat_access,27.2,,39.075666,-77.42733,nps_recreation_guide|nps_towpath_reference
+nps-chisel-branch-30-5,Chisel Branch,campground,30.5,,39.103718,-77.47244,nps_recreation_guide|nps_towpath_reference
+access-edwards-ferry-30-8,Edwards Ferry,access_point,30.8,,39.103463,-77.472933,co_canal_association_access_points|nps_recreation_guide
+nps-edwards-ferry-30-8,Edwards Ferry,canal_quarters,30.8,,39.107701,-77.474461,nps_recreation_guide|nps_towpath_reference
+lock-25,Lock 25,lock,30.8,,39.107701,-77.474461,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-turtle-run-34-4,Turtle Run,campground,34.4,,39.140468,-77.515859,nps_recreation_guide|nps_towpath_reference
+access-whites-ferry-35-5,Whites Ferry,access_point,35.5,,39.154861,-77.518206,co_canal_association_access_points|nps_recreation_guide
+nps-whites-ferry-35-5,Whites Ferry,boat_access,35.5,,39.155967,-77.517122,nps_recreation_guide|nps_towpath_reference
+nps-marble-quarry-38-2,Marble Quarry,campground,38.2,,39.181872,-77.485457,nps_recreation_guide|nps_towpath_reference
+lock-26,Lock 26,lock,39.4,,39.193486,-77.470144,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-dickerson-conservation-park-39-6,Dickerson Conservation Park,access_point,39.6,,39.194685,-77.469402,co_canal_association_access_points
+lock-27,Lock 27,lock,41.5,,39.218818,-77.454126,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-monocacy-aqueduct-42-1,Monocacy Aqueduct,access_point,42.1,,39.222563,-77.449987,co_canal_association_access_points|nps_recreation_guide
+nps-monocacy-aqueduct-42-2,Monocacy Aqueduct,aqueduct,42.2,,39.227429,-77.45473,nps_recreation_guide|nps_towpath_reference
+nps-indian-flats-42-5,Indian Flats,campground,42.5,,39.23083,-77.458139,nps_recreation_guide|nps_towpath_reference
+access-nolands-ferry-44-6,Nolands Ferry,access_point,44.6,,39.249948,-77.482726,co_canal_association_access_points|nps_recreation_guide
+nps-nolands-ferry-44-6,Nolands Ferry,boat_access,44.6,,39.252415,-77.485425,nps_recreation_guide|nps_towpath_reference
+nps-calico-rocks-47-6,Calico Rocks,campground,47.6,,39.27256,-77.533248,nps_recreation_guide|nps_towpath_reference
+access-point-of-rocks-48-2,Point of Rocks,access_point,48.2,,39.273218,-77.540045,co_canal_association_access_points|nps_recreation_guide
+nps-point-of-rocks-48-2,Point of Rocks,canal_quarters,48.2,,39.274382,-77.544101,nps_recreation_guide|nps_towpath_reference
+lock-28,Lock 28,lock,48.9,,39.283511,-77.549342,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-bald-eagle-island-50-3,Bald Eagle Island,campground,50.3,,39.301381,-77.556463,nps_recreation_guide|nps_towpath_reference
+lock-29,Lock 29,lock,50.8,,39.307897,-77.559807,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lander-50-9,Lander,access_point,50.9,,39.306507,-77.558006,co_canal_association_access_points|nps_recreation_guide
+access-brunswick-55-0,Brunswick,access_point,55.0,,39.31122,-77.630749,co_canal_association_access_points|nps_recreation_guide
+lock-30,Lock 30,lock,55.0,,39.31242,-77.634638,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-brunswick-55-0,Brunswick,visitor_center,55.0,,39.31242,-77.634638,nps_recreation_guide|nps_towpath_reference
+access-weverton-58-0,Weverton,access_point,58.0,,39.329916,-77.681966,co_canal_association_access_points
+lock-31,Lock 31,lock,58.0,,39.328068,-77.683948,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-32,Lock 32,lock,60.2,,39.323567,-77.72272,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-33,Lock 33,lock,60.7,,39.327557,-77.729463,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-maryland-heights-61-3,Maryland Heights,access_point,61.3,,39.329395,-77.731919,co_canal_association_access_points
+lock-34,Lock 34,lock,61.5,,39.334099,-77.741529,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-34-61-6,Lock 34,access_point,61.6,,39.33343,-77.738577,co_canal_association_access_points
+nps-huckleberry-hill-62-0,Huckleberry Hill,campground,62.0,,39.336603,-77.75009,nps_recreation_guide|nps_towpath_reference
+lock-35,Lock 35,lock,62.3,,39.337156,-77.754509,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-36,Lock 36,lock,62.5,,39.339316,-77.756845,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-dargan-bend-64-9,Dargan Bend,access_point,64.9,,39.364182,-77.740073,co_canal_association_access_points|nps_recreation_guide
+nps-dargan-bend-64-9,Dargan Bend,boat_access,64.9,,39.367567,-77.741581,nps_recreation_guide|nps_towpath_reference
+lock-37,Lock 37,lock,66.9,,39.386103,-77.733989,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-mountain-lock-67-0,Mountain Lock,access_point,67.0,,39.385295,-77.734451,co_canal_association_access_points
+access-antietam-69-5,Antietam,access_point,69.5,,39.419001,-77.74657,co_canal_association_access_points|nps_recreation_guide
+nps-antietam-creek-69-6,Antietam Creek,campground,69.6,,39.421685,-77.749059,nps_recreation_guide|nps_towpath_reference
+access-railroad-bridge-shepherdstown-72-4,Railroad bridge (Shepherdstown),access_point,72.4,,39.433927,-77.795512,co_canal_association_access_points
+lock-38,Lock 38,lock,72.7,,39.436923,-77.800382,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-38-shepherdstown-72-8,Lock 38 (Shepherdstown),access_point,72.8,,39.436456,-77.799527,co_canal_association_access_points|nps_recreation_guide
+nps-ferry-hill-72-8,Ferry Hill,recreation_location,72.8,,39.438311,-77.800383,nps_recreation_guide|nps_towpath_reference
+lock-39,Lock 39,lock,74.0,,39.446563,-77.782969,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-killiansburg-cave-75-2,Killiansburg Cave,campground,75.2,,39.459017,-77.796743,nps_recreation_guide|nps_towpath_reference
+nps-snyders-landing-76-6,Snyders Landing,boat_access,76.6,,39.463713,-77.776086,nps_recreation_guide|nps_towpath_reference
+access-snyders-landing-76-7,Snyders Landing,access_point,76.7,,39.46527,-77.777313,co_canal_association_access_points|nps_recreation_guide
+nps-horseshoe-bend-79-2,Horseshoe Bend,campground,79.2,,39.485611,-77.780687,nps_recreation_guide|nps_towpath_reference
+lock-40,Lock 40,lock,79.4,,39.486323,-77.777038,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-taylors-landing-80-9,Taylors Landing,boat_access,80.9,,39.499898,-77.769066,nps_recreation_guide|nps_towpath_reference
+access-taylors-landing-81-0,Taylors Landing,access_point,81.0,,39.499645,-77.767866,co_canal_association_access_points|nps_recreation_guide
+nps-big-woods-82-7,Big Woods,campground,82.7,,39.491757,-77.797918,nps_recreation_guide|nps_towpath_reference
+access-dam-no-4-84-4,Dam No. 4,access_point,84.4,,39.496001,-77.826266,co_canal_association_access_points|nps_recreation_guide
+nps-dam-4-84-4,Dam 4,dam,84.4,,39.495682,-77.828942,nps_recreation_guide|nps_towpath_reference
+access-big-slackwater-boat-ramp-85-4,Big Slackwater Boat Ramp,access_point,85.4,,39.501346,-77.845385,co_canal_association_access_points|nps_recreation_guide
+nps-big-slackwater-85-5,Big Slackwater,boat_access,85.5,,39.503003,-77.845234,nps_recreation_guide|nps_towpath_reference
+access-mcmahons-mill-88-1,McMahons Mill,access_point,88.1,,39.530654,-77.823522,co_canal_association_access_points|nps_recreation_guide
+nps-mcmahons-mill-88-1,McMahons Mill,recreation_location,88.1,,39.531205,-77.825732,nps_recreation_guide|nps_towpath_reference
+lock-41,Lock 41,lock,88.9,,39.532456,-77.839459,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-42,Lock 42,lock,89.0,,39.531319,-77.840599,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-spring-dell-road-89-1,Spring Dell Road,access_point,89.1,,39.530309,-77.844116,co_canal_association_access_points
+nps-opequon-junction-90-9,Opequon Junction,railroad_junction,90.9,,39.516661,-77.862118,nps_recreation_guide|nps_towpath_reference
+lock-43,Lock 43,lock,92.9,,39.543371,-77.867558,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-cumberland-valley-95-2,Cumberland Valley,campground,95.2,,39.561766,-77.869969,nps_recreation_guide|nps_towpath_reference
+lock-44,Lock 44,lock,99.1,,39.592623,-77.825474,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-44-99-3,Lock 44,access_point,99.3,,39.595037,-77.824712,co_canal_association_access_points|nps_recreation_guide
+access-williamsport-visitor-center-99-8,Williamsport Visitor Center,access_point,99.8,,39.600996,-77.826927,co_canal_association_access_points|nps_recreation_guide
+nps-cushwa-basin-williamsport-99-8,Cushwa Basin (Williamsport),visitor_center,99.8,,39.602083,-77.828702,nps_recreation_guide|nps_towpath_reference
+nps-jordan-junction-101-2,Jordan Junction,railroad_junction,101.2,,39.609492,-77.85102,nps_recreation_guide|nps_towpath_reference
+access-gift-road-103-3,Gift Road,access_point,103.3,,39.616863,-77.888503,co_canal_association_access_points
+access-dam-no-5-road-106-2,Dam No. 5 Road,access_point,106.2,,39.604678,-77.911877,co_canal_association_access_points
+access-dam-no-5-106-8,Dam No. 5,access_point,106.8,,39.607079,-77.921117,co_canal_association_access_points|nps_recreation_guide
+nps-dam-5-106-8,Dam 5,dam,106.8,,39.608012,-77.922882,nps_recreation_guide|nps_towpath_reference
+lock-45,Lock 45,lock,107.0,,39.610333,-77.92506,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-46,Lock 46,lock,107.2,,39.613054,-77.925573,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-46-107-4,Lock 46,access_point,107.4,,39.615866,-77.926626,co_canal_association_access_points
+lock-47,Lock 47,lock,108.7,,39.616916,-77.946986,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-four-locks-108-8,Four Locks,access_point,108.8,,39.615311,-77.947494,co_canal_association_access_points|nps_recreation_guide
+lock-48,Lock 48,lock,108.8,,39.615704,-77.947982,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-49,Lock 49,lock,108.9,,39.614369,-77.948654,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-four-locks-109-0,Four Locks,lock,109.0,,39.613005,-77.949229,nps_recreation_guide|nps_towpath_reference
+lock-50,Lock 50,lock,109.0,,39.613005,-77.949229,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-north-mountain-110-0,North Mountain,campground,110.0,,39.61052,-77.963543,nps_recreation_guide|nps_towpath_reference
+access-mccoys-ferry-110-4,McCoys Ferry,access_point,110.4,,39.609261,-77.970065,co_canal_association_access_points|nps_recreation_guide
+nps-mccoys-ferry-110-4,McCoys Ferry,campground,110.4,,39.608148,-77.970382,nps_recreation_guide|nps_towpath_reference
+access-fort-frederick-112-4,Fort Frederick,access_point,112.4,,39.605391,-78.005041,co_canal_association_access_points|nps_recreation_guide
+nps-fort-frederick-state-park-112-4,Fort Frederick State Park,campground,112.4,,39.605593,-78.005485,nps_recreation_guide|nps_towpath_reference
+nps-big-pool-113-8,Big Pool,boat_access,113.8,,39.622391,-78.019031,nps_recreation_guide|nps_towpath_reference
+access-ernstville-road-114-5,Ernstville Road,access_point,114.5,,39.63297,-78.028951,co_canal_association_access_points
+nps-licking-creek-116-0,Licking Creek,campground,116.0,,39.646154,-78.045378,nps_recreation_guide|nps_towpath_reference
+access-licking-creek-116-3,Licking Creek,access_point,116.3,,39.655987,-78.053946,co_canal_association_access_points|nps_recreation_guide
+access-little-pool-119-6,Little Pool,access_point,119.6,,39.68443,-78.103796,co_canal_association_access_points
+lock-51,Lock 51,lock,122.7,,39.692982,-78.150004,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-hancock-visitor-center-122-8,Hancock Visitor Center,access_point,122.8,,39.694227,-78.154046,co_canal_association_access_points
+lock-52,Lock 52,lock,122.9,,39.69346,-78.153723,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-hancock-124-1,Hancock,access_point,124.1,,39.698253,-78.181036,co_canal_association_access_points
+nps-little-tonoloway-hancock-124-5,Little Tonoloway (Hancock),boat_access,124.5,,39.697873,-78.183078,nps_recreation_guide|nps_towpath_reference
+access-berm-road-125-6,Berm Road,access_point,125.6,,39.683618,-78.199002,co_canal_association_access_points
+nps-white-rock-126-4,White Rock,campground,126.4,,39.678539,-78.206563,nps_recreation_guide|nps_towpath_reference
+nps-little-pool-126-6,Little Pool,campground,126.6,,39.677996,-78.210251,nps_recreation_guide|nps_towpath_reference
+nps-leopards-mill-129-9,Leopards Mill,campground,129.9,,39.653048,-78.238459,nps_recreation_guide|nps_towpath_reference
+lock-53,Lock 53,lock,130.1,,39.651246,-78.241386,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-cohill-station-130-7,Cohill Station,access_point,130.7,,39.645446,-78.251711,co_canal_association_access_points|nps_recreation_guide
+nps-cohill-station-130-7,Cohill Station,railroad_station,130.7,,39.645798,-78.250115,nps_recreation_guide|nps_towpath_reference
+nps-cacapon-juntion-133-6,Cacapon Juntion,campground,133.6,,39.621978,-78.282096,nps_recreation_guide|nps_towpath_reference
+access-pearre-road-dam-6-134-0,"Pearre Road, Dam #6",access_point,134.0,,39.628174,-78.298256,co_canal_association_access_points
+lock-54,Lock 54,lock,134.0,,39.623685,-78.289192,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-55,Lock 55,lock,134.2,,39.625375,-78.292234,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-wmrt-pearre-parking-lot-135-9,WMRT Pearre parking lot,access_point,135.9,,39.63648,-78.323262,co_canal_association_access_points
+access-lock-56-pearre-136-2,Lock 56 (Pearre),access_point,136.2,,39.637868,-78.328302,co_canal_association_access_points
+lock-56,Lock 56,lock,136.2,,39.636717,-78.326765,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-indigo-neck-139-2,Indigo Neck,campground,139.2,,39.627074,-78.359089,nps_recreation_guide|nps_towpath_reference
+lock-57,Lock 57,lock,139.4,,39.627721,-78.362741,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-little-orleans-140-8,Little Orleans,access_point,140.8,,39.625648,-78.385868,co_canal_association_access_points
+nps-fifteenmile-creek-140-9,Fifteenmile Creek,campground,140.9,,39.625693,-78.386301,nps_recreation_guide|nps_towpath_reference
+lock-58,Lock 58,lock,144.0,,39.620124,-78.404766,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-devils-alley-144-5,Devils Alley,campground,144.5,,39.62283,-78.413478,nps_recreation_guide|nps_towpath_reference
+lock-59,Lock 59,lock,146.5,,39.611125,-78.43243,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-kasecamp-road-147-1,Kasecamp Road,access_point,147.1,,39.603639,-78.42582,co_canal_association_access_points
+nps-stickpile-hill-149-4,Stickpile Hill,campground,149.4,,39.582727,-78.399293,nps_recreation_guide|nps_towpath_reference
+lock-60,Lock 60,lock,149.6,,39.582287,-78.402933,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-bonds-landing-150-1,Bonds Landing,access_point,150.1,,39.582848,-78.411246,co_canal_association_access_points
+access-roby-hollow-151-2,Roby Hollow,access_point,151.2,,39.590113,-78.429294,co_canal_association_access_points
+lock-61,Lock 61,lock,153.1,,39.583308,-78.459972,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-twigg-hollow-153-3,Twigg Hollow,access_point,153.3,,39.58128,-78.46154,co_canal_association_access_points
+nps-sorrel-ridge-154-1,Sorrel Ridge,campground,154.1,,39.570954,-78.452925,nps_recreation_guide|nps_towpath_reference
+lock-62,Lock 62,lock,154.1,,39.570954,-78.452925,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-63-1-3,Lock 63 1/3,lock,154.5,,39.566306,-78.454759,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-64-2-3,Lock 64 2/3,lock,154.6,,39.565278,-78.456065,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-66,Lock 66,lock,154.7,,39.564317,-78.457462,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-paw-paw-156-1,Paw Paw,campground,156.1,,39.54547,-78.462511,nps_recreation_guide|nps_towpath_reference
+access-paw-paw-tunnel-156-2,Paw Paw Tunnel,access_point,156.2,,39.54445,-78.460806,co_canal_association_access_points|nps_recreation_guide
+nps-purslane-run-156-9,Purslane Run,campground,156.9,,39.535606,-78.46445,nps_recreation_guide|nps_towpath_reference
+lock-67,Lock 67,lock,161.7,,39.525514,-78.533007,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-lock-67-161-9,Lock 67,access_point,161.9,,39.5256,-78.53626,co_canal_association_access_points
+nps-town-creek-162-1,Town Creek,campground,162.1,,39.524299,-78.540338,nps_recreation_guide|nps_towpath_reference
+access-town-creek-aqueduct-162-3,Town Creek Aqueduct,access_point,162.3,,39.523862,-78.543122,co_canal_association_access_points|nps_recreation_guide
+nps-potomac-forks-164-8,Potomac Forks,campground,164.8,,39.530476,-78.588689,nps_recreation_guide|nps_towpath_reference
+lock-68,Lock 68,lock,164.8,,39.530476,-78.588689,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-69,Lock 69,lock,166.5,,39.539818,-78.609658,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-oldtown-lock-70-166-7,Oldtown (Lock 70),access_point,166.7,,39.540405,-78.611936,co_canal_association_access_points|nps_recreation_guide
+lock-70,Lock 70,lock,166.7,,39.539815,-78.613427,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-oldtown-battie-mixon-166-7,Oldtown Battie Mixon,recreation_location,166.7,,39.539815,-78.613427,nps_recreation_guide|nps_towpath_reference
+lock-71,Lock 71,lock,167.0,,39.541786,-78.618323,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-pigmans-ferry-169-1,Pigmans Ferry,campground,169.1,,39.539143,-78.650873,nps_recreation_guide|nps_towpath_reference
+access-spring-gap-173-3,Spring Gap,access_point,173.3,,39.564306,-78.719289,co_canal_association_access_points|nps_recreation_guide
+nps-spring-gap-173-3,Spring Gap,campground,173.3,,39.56461,-78.719211,nps_recreation_guide|nps_towpath_reference
+lock-72,Lock 72,lock,174.4,,39.576123,-78.730887,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+nps-irons-mountain-175-3,Irons Mountain,campground,175.3,,39.587859,-78.734986,nps_recreation_guide|nps_towpath_reference
+lock-73,Lock 73,lock,175.4,,39.587907,-78.736863,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+lock-74,Lock 74,lock,175.5,,39.587873,-78.738747,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-north-branch-175-6,North Branch,access_point,175.6,,39.587698,-78.743462,co_canal_association_access_points|nps_recreation_guide
+lock-75,Lock 75,lock,175.7,,39.586476,-78.741911,nps_lift_locks|co_canal_trust_locks|nps_towpath_reference
+access-river-road-176-4,River Road,access_point,176.4,,39.587303,-78.754629,co_canal_association_access_points
+access-mexico-farms-178-3,Mexico Farms,access_point,178.3,,39.599369,-78.750544,co_canal_association_access_points
+access-brehm-road-178-9,Brehm Road,access_point,178.9,,39.603402,-78.741713,co_canal_association_access_points
+nps-evitts-creek-180-1,Evitts Creek,campground,180.1,,39.619127,-78.733404,nps_recreation_guide|nps_towpath_reference
+access-candoc-recreation-area-181-8,Candoc Recreation Area,access_point,181.8,,39.625274,-78.759307,co_canal_association_access_points
+access-canal-parkway-182-6,Canal Parkway,access_point,182.6,,39.622741,-78.773223,co_canal_association_access_points
+access-elizabeth-street-183-1,Elizabeth Street,access_point,183.1,,39.629393,-78.773132,co_canal_association_access_points
+access-cumberland-visitor-center-184-5,Cumberland Visitor Center,access_point,184.5,,39.649348,-78.7628,co_canal_association_access_points|nps_recreation_guide
+nps-canal-terminus-cumberland-184-5,Canal Terminus (Cumberland),visitor_center,184.5,,39.648125,-78.763965,nps_recreation_guide|nps_towpath_reference

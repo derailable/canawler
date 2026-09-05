@@ -1,0 +1,1742 @@
+{
+  "access_points": [
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": false,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": true,
+        "water": true
+      },
+      "id": "access-georgetown-0-0",
+      "latitude": 38.904167,
+      "longitude": -77.060133,
+      "mile": 0.0,
+      "mile_end": 1.1,
+      "name": "Georgetown",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": true,
+        "boat_ramp": false,
+        "boat_rentals": true,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": true,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-fletchers-cove-3-1",
+      "latitude": 38.918691,
+      "longitude": -77.102019,
+      "mile": 3.1,
+      "mile_end": null,
+      "name": "Fletchers Cove",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-chain-bridge-4-0",
+      "latitude": 38.932841,
+      "longitude": -77.112844,
+      "mile": 4.0,
+      "mile_end": null,
+      "name": "Chain Bridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-brookmont-footbridge-5-0",
+      "latitude": 38.939982,
+      "longitude": -77.120157,
+      "mile": 5.0,
+      "mile_end": null,
+      "name": "Brookmont footbridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lock-6-5-4",
+      "latitude": 38.944737,
+      "longitude": -77.123348,
+      "mile": 5.4,
+      "mile_end": null,
+      "name": "Lock 6",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-valley-road-brookmont-5-4",
+      "latitude": 38.94546,
+      "longitude": -77.122672,
+      "mile": 5.4,
+      "mile_end": null,
+      "name": "Valley Road (Brookmont)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-sycamore-island-6-4",
+      "latitude": 38.95832,
+      "longitude": -77.131465,
+      "mile": 6.4,
+      "mile_end": null,
+      "name": "Sycamore Island",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-walhonding-road-footbridge-6-4",
+      "latitude": 38.958303,
+      "longitude": -77.130849,
+      "mile": 6.4,
+      "mile_end": null,
+      "name": "Walhonding Road footbridge",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lock-7-7-0",
+      "latitude": 38.964611,
+      "longitude": -77.138363,
+      "mile": 7.0,
+      "mile_end": null,
+      "name": "Lock 7",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-cabin-john-aqueduct-7-7",
+      "latitude": 38.972854,
+      "longitude": -77.147357,
+      "mile": 7.7,
+      "mile_end": null,
+      "name": "Cabin John Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lock-8-8-3",
+      "latitude": 38.971559,
+      "longitude": -77.160636,
+      "mile": 8.3,
+      "mile_end": null,
+      "name": "Lock 8",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-riverside-drive-8-3",
+      "latitude": 38.97208,
+      "longitude": -77.1621,
+      "mile": 8.3,
+      "mile_end": null,
+      "name": "Riverside Drive",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-lock-10-8-8",
+      "latitude": 38.972631,
+      "longitude": -77.169278,
+      "mile": 8.8,
+      "mile_end": null,
+      "name": "Lock 10",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-carderock-10-4",
+      "latitude": 38.97456,
+      "longitude": -77.201968,
+      "mile": 10.4,
+      "mile_end": 10.8,
+      "name": "Carderock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": false,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-marsden-tract-11-4",
+      "latitude": 38.978697,
+      "longitude": -77.215888,
+      "mile": 11.4,
+      "mile_end": null,
+      "name": "Marsden Tract",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-old-angler-s-inn-12-2",
+      "latitude": 38.981897,
+      "longitude": -77.226205,
+      "mile": 12.2,
+      "mile_end": null,
+      "name": "Old Angler's Inn",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": true,
+        "food": true,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": true,
+        "water": true
+      },
+      "id": "access-great-falls-14-3",
+      "latitude": 39.001748,
+      "longitude": -77.246836,
+      "mile": 14.3,
+      "mile_end": null,
+      "name": "Great Falls",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": false,
+        "camping_tent": true,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-swains-lock-16-6",
+      "latitude": 39.031634,
+      "longitude": -77.243531,
+      "mile": 16.6,
+      "mile_end": null,
+      "name": "Swains Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-pennyfield-lock-19-6",
+      "latitude": 39.054972,
+      "longitude": -77.290334,
+      "mile": 19.6,
+      "mile_end": null,
+      "name": "Pennyfield Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-violettes-lock-22-1",
+      "latitude": 39.067226,
+      "longitude": -77.328483,
+      "mile": 22.1,
+      "mile_end": null,
+      "name": "Violettes Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-rileys-lock-22-8",
+      "latitude": 39.069167,
+      "longitude": -77.340877,
+      "mile": 22.8,
+      "mile_end": null,
+      "name": "Rileys Lock",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-sycamore-landing-27-2",
+      "latitude": 39.074731,
+      "longitude": -77.420193,
+      "mile": 27.2,
+      "mile_end": null,
+      "name": "Sycamore Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-edwards-ferry-30-8",
+      "latitude": 39.103463,
+      "longitude": -77.472933,
+      "mile": 30.8,
+      "mile_end": null,
+      "name": "Edwards Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-whites-ferry-35-5",
+      "latitude": 39.154861,
+      "longitude": -77.518206,
+      "mile": 35.5,
+      "mile_end": null,
+      "name": "Whites Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-dickerson-conservation-park-39-6",
+      "latitude": 39.194685,
+      "longitude": -77.469402,
+      "mile": 39.6,
+      "mile_end": null,
+      "name": "Dickerson Conservation Park",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-monocacy-aqueduct-42-1",
+      "latitude": 39.222563,
+      "longitude": -77.449987,
+      "mile": 42.1,
+      "mile_end": null,
+      "name": "Monocacy Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-nolands-ferry-44-6",
+      "latitude": 39.249948,
+      "longitude": -77.482726,
+      "mile": 44.6,
+      "mile_end": null,
+      "name": "Nolands Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-point-of-rocks-48-2",
+      "latitude": 39.273218,
+      "longitude": -77.540045,
+      "mile": 48.2,
+      "mile_end": null,
+      "name": "Point of Rocks",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lander-50-9",
+      "latitude": 39.306507,
+      "longitude": -77.558006,
+      "mile": 50.9,
+      "mile_end": null,
+      "name": "Lander",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": true,
+        "water": false
+      },
+      "id": "access-brunswick-55-0",
+      "latitude": 39.31122,
+      "longitude": -77.630749,
+      "mile": 55.0,
+      "mile_end": null,
+      "name": "Brunswick",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-weverton-58-0",
+      "latitude": 39.329916,
+      "longitude": -77.681966,
+      "mile": 58.0,
+      "mile_end": null,
+      "name": "Weverton",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-maryland-heights-61-3",
+      "latitude": 39.329395,
+      "longitude": -77.731919,
+      "mile": 61.3,
+      "mile_end": null,
+      "name": "Maryland Heights",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-lock-34-61-6",
+      "latitude": 39.33343,
+      "longitude": -77.738577,
+      "mile": 61.6,
+      "mile_end": null,
+      "name": "Lock 34",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-dargan-bend-64-9",
+      "latitude": 39.364182,
+      "longitude": -77.740073,
+      "mile": 64.9,
+      "mile_end": null,
+      "name": "Dargan Bend",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-mountain-lock-67-0",
+      "latitude": 39.385295,
+      "longitude": -77.734451,
+      "mile": 67.0,
+      "mile_end": null,
+      "name": "Mountain Lock",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-antietam-69-5",
+      "latitude": 39.419001,
+      "longitude": -77.74657,
+      "mile": 69.5,
+      "mile_end": null,
+      "name": "Antietam",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-railroad-bridge-shepherdstown-72-4",
+      "latitude": 39.433927,
+      "longitude": -77.795512,
+      "mile": 72.4,
+      "mile_end": null,
+      "name": "Railroad bridge (Shepherdstown)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lock-38-shepherdstown-72-8",
+      "latitude": 39.436456,
+      "longitude": -77.799527,
+      "mile": 72.8,
+      "mile_end": null,
+      "name": "Lock 38 (Shepherdstown)",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-snyders-landing-76-7",
+      "latitude": 39.46527,
+      "longitude": -77.777313,
+      "mile": 76.7,
+      "mile_end": null,
+      "name": "Snyders Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-taylors-landing-81-0",
+      "latitude": 39.499645,
+      "longitude": -77.767866,
+      "mile": 81.0,
+      "mile_end": null,
+      "name": "Taylors Landing",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-dam-no-4-84-4",
+      "latitude": 39.496001,
+      "longitude": -77.826266,
+      "mile": 84.4,
+      "mile_end": null,
+      "name": "Dam No. 4",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-big-slackwater-boat-ramp-85-4",
+      "latitude": 39.501346,
+      "longitude": -77.845385,
+      "mile": 85.4,
+      "mile_end": null,
+      "name": "Big Slackwater Boat Ramp",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-mcmahons-mill-88-1",
+      "latitude": 39.530654,
+      "longitude": -77.823522,
+      "mile": 88.1,
+      "mile_end": null,
+      "name": "McMahons Mill",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-spring-dell-road-89-1",
+      "latitude": 39.530309,
+      "longitude": -77.844116,
+      "mile": 89.1,
+      "mile_end": null,
+      "name": "Spring Dell Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-lock-44-99-3",
+      "latitude": 39.595037,
+      "longitude": -77.824712,
+      "mile": 99.3,
+      "mile_end": null,
+      "name": "Lock 44",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": true,
+        "water": true
+      },
+      "id": "access-williamsport-visitor-center-99-8",
+      "latitude": 39.600996,
+      "longitude": -77.826927,
+      "mile": 99.8,
+      "mile_end": null,
+      "name": "Williamsport Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-gift-road-103-3",
+      "latitude": 39.616863,
+      "longitude": -77.888503,
+      "mile": 103.3,
+      "mile_end": null,
+      "name": "Gift Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-dam-no-5-road-106-2",
+      "latitude": 39.604678,
+      "longitude": -77.911877,
+      "mile": 106.2,
+      "mile_end": null,
+      "name": "Dam No. 5 Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-dam-no-5-106-8",
+      "latitude": 39.607079,
+      "longitude": -77.921117,
+      "mile": 106.8,
+      "mile_end": null,
+      "name": "Dam No. 5",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-lock-46-107-4",
+      "latitude": 39.615866,
+      "longitude": -77.926626,
+      "mile": 107.4,
+      "mile_end": null,
+      "name": "Lock 46",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": true,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-four-locks-108-8",
+      "latitude": 39.615311,
+      "longitude": -77.947494,
+      "mile": 108.8,
+      "mile_end": null,
+      "name": "Four Locks",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-mccoys-ferry-110-4",
+      "latitude": 39.609261,
+      "longitude": -77.970065,
+      "mile": 110.4,
+      "mile_end": null,
+      "name": "McCoys Ferry",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-fort-frederick-112-4",
+      "latitude": 39.605391,
+      "longitude": -78.005041,
+      "mile": 112.4,
+      "mile_end": null,
+      "name": "Fort Frederick",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-ernstville-road-114-5",
+      "latitude": 39.63297,
+      "longitude": -78.028951,
+      "mile": 114.5,
+      "mile_end": null,
+      "name": "Ernstville Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": false,
+        "camping_tent": true,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": false,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-licking-creek-116-3",
+      "latitude": 39.655987,
+      "longitude": -78.053946,
+      "mile": 116.3,
+      "mile_end": null,
+      "name": "Licking Creek",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-little-pool-119-6",
+      "latitude": 39.68443,
+      "longitude": -78.103796,
+      "mile": 119.6,
+      "mile_end": null,
+      "name": "Little Pool",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-hancock-visitor-center-122-8",
+      "latitude": 39.694227,
+      "longitude": -78.154046,
+      "mile": 122.8,
+      "mile_end": null,
+      "name": "Hancock Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-hancock-124-1",
+      "latitude": 39.698253,
+      "longitude": -78.181036,
+      "mile": 124.1,
+      "mile_end": null,
+      "name": "Hancock",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-berm-road-125-6",
+      "latitude": 39.683618,
+      "longitude": -78.199002,
+      "mile": 125.6,
+      "mile_end": null,
+      "name": "Berm Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-cohill-station-130-7",
+      "latitude": 39.645446,
+      "longitude": -78.251711,
+      "mile": 130.7,
+      "mile_end": null,
+      "name": "Cohill Station",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-pearre-road-dam-6-134-0",
+      "latitude": 39.628174,
+      "longitude": -78.298256,
+      "mile": 134.0,
+      "mile_end": null,
+      "name": "Pearre Road, Dam #6",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-wmrt-pearre-parking-lot-135-9",
+      "latitude": 39.63648,
+      "longitude": -78.323262,
+      "mile": 135.9,
+      "mile_end": null,
+      "name": "WMRT Pearre parking lot",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-lock-56-pearre-136-2",
+      "latitude": 39.637868,
+      "longitude": -78.328302,
+      "mile": 136.2,
+      "mile_end": null,
+      "name": "Lock 56 (Pearre)",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-little-orleans-140-8",
+      "latitude": 39.625648,
+      "longitude": -78.385868,
+      "mile": 140.8,
+      "mile_end": null,
+      "name": "Little Orleans",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-kasecamp-road-147-1",
+      "latitude": 39.603639,
+      "longitude": -78.42582,
+      "mile": 147.1,
+      "mile_end": null,
+      "name": "Kasecamp Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-bonds-landing-150-1",
+      "latitude": 39.582848,
+      "longitude": -78.411246,
+      "mile": 150.1,
+      "mile_end": null,
+      "name": "Bonds Landing",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-roby-hollow-151-2",
+      "latitude": 39.590113,
+      "longitude": -78.429294,
+      "mile": 151.2,
+      "mile_end": null,
+      "name": "Roby Hollow",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-twigg-hollow-153-3",
+      "latitude": 39.58128,
+      "longitude": -78.46154,
+      "mile": 153.3,
+      "mile_end": null,
+      "name": "Twigg Hollow",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": true,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-paw-paw-tunnel-156-2",
+      "latitude": 39.54445,
+      "longitude": -78.460806,
+      "mile": 156.2,
+      "mile_end": null,
+      "name": "Paw Paw Tunnel",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-lock-67-161-9",
+      "latitude": 39.5256,
+      "longitude": -78.53626,
+      "mile": 161.9,
+      "mile_end": null,
+      "name": "Lock 67",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": false,
+        "camping_tent": true,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": false,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-town-creek-aqueduct-162-3",
+      "latitude": 39.523862,
+      "longitude": -78.543122,
+      "mile": 162.3,
+      "mile_end": null,
+      "name": "Town Creek Aqueduct",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-oldtown-lock-70-166-7",
+      "latitude": 39.540405,
+      "longitude": -78.611936,
+      "mile": 166.7,
+      "mile_end": null,
+      "name": "Oldtown (Lock 70)",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": true,
+        "boat_rentals": false,
+        "camping": true,
+        "camping_fee_area": true,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": false,
+        "visitor_center": false,
+        "water": true
+      },
+      "id": "access-spring-gap-173-3",
+      "latitude": 39.564306,
+      "longitude": -78.719289,
+      "mile": 173.3,
+      "mile_end": null,
+      "name": "Spring Gap",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": true,
+        "restrooms": true,
+        "visitor_center": false,
+        "water": false
+      },
+      "id": "access-north-branch-175-6",
+      "latitude": 39.587698,
+      "longitude": -78.743462,
+      "mile": 175.6,
+      "mile_end": null,
+      "name": "North Branch",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-river-road-176-4",
+      "latitude": 39.587303,
+      "longitude": -78.754629,
+      "mile": 176.4,
+      "mile_end": null,
+      "name": "River Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-mexico-farms-178-3",
+      "latitude": 39.599369,
+      "longitude": -78.750544,
+      "mile": 178.3,
+      "mile_end": null,
+      "name": "Mexico Farms",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-brehm-road-178-9",
+      "latitude": 39.603402,
+      "longitude": -78.741713,
+      "mile": 178.9,
+      "mile_end": null,
+      "name": "Brehm Road",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-candoc-recreation-area-181-8",
+      "latitude": 39.625274,
+      "longitude": -78.759307,
+      "mile": 181.8,
+      "mile_end": null,
+      "name": "Candoc Recreation Area",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-canal-parkway-182-6",
+      "latitude": 39.622741,
+      "longitude": -78.773223,
+      "mile": 182.6,
+      "mile_end": null,
+      "name": "Canal Parkway",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": null,
+      "id": "access-elizabeth-street-183-1",
+      "latitude": 39.629393,
+      "longitude": -78.773132,
+      "mile": 183.1,
+      "mile_end": null,
+      "name": "Elizabeth Street",
+      "source_ids": [
+        "co_canal_association_access_points"
+      ]
+    },
+    {
+      "amenities": {
+        "bike_rentals": false,
+        "boat_ramp": false,
+        "boat_rentals": false,
+        "camping": false,
+        "camping_fee_area": false,
+        "camping_tent": false,
+        "canal_quarters": false,
+        "canoe_kayak_ramp": false,
+        "fee_area": false,
+        "food": false,
+        "parking": true,
+        "picnic_tables": false,
+        "restrooms": true,
+        "visitor_center": true,
+        "water": true
+      },
+      "id": "access-cumberland-visitor-center-184-5",
+      "latitude": 39.649348,
+      "longitude": -78.7628,
+      "mile": 184.5,
+      "mile_end": null,
+      "name": "Cumberland Visitor Center",
+      "source_ids": [
+        "co_canal_association_access_points",
+        "nps_recreation_guide"
+      ]
+    }
+  ],
+  "schema_version": 1
+}

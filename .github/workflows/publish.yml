@@ -1,0 +1,32 @@
+name: Publish Quarto site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+      - name: Verify public data is current
+        run: |
+          uv sync --frozen --no-dev
+          uv run --frozen --no-dev python -m canawler.build
+          git diff --exit-code -- data/public
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render and publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

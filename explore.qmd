@@ -1,0 +1,36 @@
+---
+title: "Explore"
+subtitle: "Features along the canal, ordered from Georgetown to Cumberland."
+---
+
+```{ojs}
+//| echo: false
+
+featureDocument = FileAttachment("data/public/json/features.json").json()
+featureTypes = ["all", ...Array.from(new Set(featureDocument.features.map(d => d.feature_type))).sort()]
+
+viewof selectedType = Inputs.select(featureTypes, {label: "Feature type", value: "all"})
+
+visibleFeatures = featureDocument.features.filter(d => selectedType === "all" || d.feature_type === selectedType)
+
+Inputs.table(
+  visibleFeatures.map(d => ({
+    mile: d.mile_end == null ? d.mile : `${d.mile}–${d.mile_end}`,
+    name: d.name,
+    type: d.feature_type.replaceAll("_", " "),
+    latitude: d.latitude,
+    longitude: d.longitude
+  })),
+  {
+    columns: ["mile", "name", "type", "latitude", "longitude"],
+    header: {mile: "Mile", name: "Name", type: "Type", latitude: "Latitude", longitude: "Longitude"},
+    rows: 20,
+    sort: "mile"
+  }
+)
+```
+
+Coordinates for access points come from the C&O Canal Association reference.
+Coordinates for milepost-only locks and recreation features are derived from the
+canonical towpath geometry. They are suitable for exploration and analysis, not
+turn-by-turn navigation.

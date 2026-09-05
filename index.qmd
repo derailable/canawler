@@ -1,0 +1,108 @@
+---
+title: "Canawler"
+subtitle: "The C&O Canal, structured as data."
+page-layout: full
+title-block-style: none
+---
+
+::: {.hero}
+::: {.hero-copy}
+# The C&O Canal, structured as data.
+
+A reproducible, source-aware dataset for exploring the places and geography of
+the 184.5-mile Chesapeake & Ohio Canal corridor.
+
+[Explore the canal](explore.qmd){.btn .btn-primary}
+[Get the data](data.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+```{ojs}
+//| echo: false
+
+towpath = FileAttachment("data/public/towpath.geojson").json()
+features = FileAttachment("data/public/json/features.json").json()
+
+corridorMap = {
+  const coords = towpath.features[0].geometry.coordinates;
+  const points = features.features;
+  const chartWidth = Math.max(width, 680);
+  const chartHeight = Math.max(310, chartWidth * 0.39);
+  const margin = 38;
+  const longitudes = coords.map(d => d[0]);
+  const latitudes = coords.map(d => d[1]);
+  const minX = Math.min(...longitudes), maxX = Math.max(...longitudes);
+  const minY = Math.min(...latitudes), maxY = Math.max(...latitudes);
+  const scale = Math.min(
+    (chartWidth - margin * 2) / (maxX - minX),
+    (chartHeight - margin * 2) / (maxY - minY)
+  );
+  const x = lon => margin + (lon - minX) * scale;
+  const y = lat => chartHeight - margin - (lat - minY) * scale;
+  const ns = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(ns, "svg");
+  svg.setAttribute("viewBox", `0 0 ${chartWidth} ${chartHeight}`);
+  svg.setAttribute("role", "img");
+  svg.setAttribute("aria-label", "Map of the C&O Canal from Georgetown to Cumberland with locks and access points");
+  svg.classList.add("corridor-map");
+  const path = document.createElementNS(ns, "path");
+  path.setAttribute("d", coords.map((d, i) => `${i ? "L" : "M"}${x(d[0]).toFixed(2)},${y(d[1]).toFixed(2)}`).join(" "));
+  path.setAttribute("class", "towpath-line");
+  svg.append(path);
+  for (const point of points.filter(d => ["access_point", "lock"].includes(d.feature_type))) {
+    const marker = document.createElementNS(ns, "circle");
+    marker.setAttribute("cx", x(point.longitude));
+    marker.setAttribute("cy", y(point.latitude));
+    marker.setAttribute("r", point.feature_type === "access_point" ? 2.1 : 1.35);
+    marker.setAttribute("class", `map-marker ${point.feature_type}`);
+    const title = document.createElementNS(ns, "title");
+    title.textContent = `${point.name} · mile ${point.mile}`;
+    marker.append(title);
+    svg.append(marker);
+  }
+  for (const [label, coord, anchor] of [
+    ["Georgetown · MP 0", coords[0], "end"],
+    ["Cumberland · MP 184.5", coords[coords.length - 1], "start"]
+  ]) {
+    const text = document.createElementNS(ns, "text");
+    text.setAttribute("x", x(coord[0]));
+    text.setAttribute("y", y(coord[1]) - 12);
+    text.setAttribute("text-anchor", anchor);
+    text.textContent = label;
+    svg.append(text);
+  }
+  return svg;
+}
+```
+
+::: {.map-key}
+<span><i class="key-access"></i> Access points</span>
+<span><i class="key-lock"></i> Locks</span>
+:::
+
+::: {.stat-grid}
+::: {.stat}
+## 184.5
+
+official canal miles
+:::
+::: {.stat}
+## 81
+
+access points
+:::
+::: {.stat}
+## 74
+
+lift locks
+:::
+::: {.stat}
+## 221
+
+normalized features
+:::
+:::
+
+Canawler turns curated public references into stable CSV, JSON, and GeoJSON. The
+pipeline records where facts came from, validates the important assumptions, and
+rebuilds without personal activity data.
